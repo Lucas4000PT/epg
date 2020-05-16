@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BR: A;E HD">
+    <display-name lang="pt">BR: A;E HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <channel id="BR: AMC HD">
     <display-name lang="pt">BR: AMC HD</display-name>
     <url>http://www.meuguia.tv</url>
@@ -44,12 +48,380 @@
     <display-name lang="pt">BR: BLOOMBERG HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="BR:COMEDY CENTRAL HD">
+  <channel id="BR: BOOMERANG HD ">
+    <display-name lang="pt">BR: BOOMERANG HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: CANAL BRASIL">
+    <display-name lang="pt">BR: CANAL BRASIL</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: CARTOON NETWORK HD">
+    <display-name lang="pt">BR: CARTOON NETWORK HD[</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: CINEMAX HD">
+    <display-name lang="pt">BR: CINEMAX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: CNN BRASIL">
+    <display-name lang="pt">BR: CNN BRASIL</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: COMBATE HD">
+    <display-name lang="pt">BR: COMBATE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: COMEDY CENTRAL HD">
     <display-name lang="pt">BR: COMEDY CENTRAL HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200516161000 -0300" stop="20200516174500 -0300" channel="BR: AMC HD">
-    <title lang="pt">MIB: Homens de Preto 2</title>
+  <channel id="BR: CULTURA HD">
+    <display-name lang="pt">BR: CULTURA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: CURTA! HD">
+    <display-name lang="pt">BR: CURTA! HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BR: DISCOVERY CHANNEL HD">
+    <display-name lang="pt">BR: DISCOVERY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISCOVERY CIVILIZATION HD">
+    <display-name lang="pt">BR: DISCOVERY CIVILIZATION HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISCOVERY THEATER HD">
+    <display-name lang="pt">BR: DISCOVERY THEATER HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISCOVERY HOME ; HEALTH HD">
+    <display-name lang="pt">BR: DISCOVERY HOME ; HEALTH</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISCOVERY KIDS HD">
+    <display-name lang="pt">BR: DISCOVERY KIDS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISCOVERY SCIENCE HD">
+    <display-name lang="pt">BR: DISCOVERY SCIENCE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISCOVERY TURBO HD">
+    <display-name lang="pt">BR: DISCOVERY TURBO HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISCOVERY TLC">
+    <display-name lang="pt">BR: DISCOVERY TLC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISNEY CHANNEL HD">
+    <display-name lang="pt">BR: DISNEY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISNEY JUNIOR HD">
+    <display-name lang="pt">BR: DISNEY JUNIOR HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: DISNEY XD HD">
+    <display-name lang="pt">DISNEY XD HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: E! HD">
+    <display-name lang="pt">BR: E! HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI Maxx [Brazil]">
+    <display-name lang="pt">EI Maxx [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: ESPN HD ">
+    <display-name lang="pt">BR: ESPN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: ESPN BRASIL HD">
+    <display-name lang="pt">BR: ESPN BRASIL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: Fox HD">
+    <display-name lang="pt">BR: FOX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: FOX LIFE HD">
+    <display-name lang="pt">BR: FOX LIFE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: FOX SPORTS HD">
+    <display-name lang="pt">BR: FOX SPORTS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: FOX SPORTS 2 HD">
+    <display-name lang="pt">BR: FOX SPORTS 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: FUTURA HD">
+    <display-name lang="pt">BR: FUTURA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: FX HD">
+    <display-name lang="pt">BR: FX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: GLOBO BRASILIA">
+    <display-name lang="pt">BR: GLOBO BRASILIA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: GLOBO EPTV CAMPINAS HD">
+    <display-name lang="pt">BR: GLOBO EPTV CAMPINAS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: GLOBO RJ HD">
+    <display-name lang="pt">BR: GLOBO RJ HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: GLOBO SP HD">
+    <display-name lang="pt">BR: GLOBO SP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: GLOBO NEWS HD">
+    <display-name lang="pt">BR: GLOBO NEWS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: GLOOB HD">
+    <display-name lang="pt">BR: GLOOB HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: GNT HD">
+    <display-name lang="pt">BR: GNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: H2 HD">
+    <display-name lang="pt">BR: H2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: HBO HD">
+    <display-name lang="pt">BR: HBO HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: HBO 2 HD ">
+    <display-name lang="pt">BR: HBO 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: HBO FAMILY HD">
+    <display-name lang="pt">BR: HBO FAMILY HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: HBO PLUS HD">
+    <display-name lang="pt">BR: HBO PLUS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: HBO PLUS*E HD">
+    <display-name lang="pt">BR: HBO PLUS*E</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: HBO SIGNATURE HD">
+    <display-name lang="pt">BR: HBO SIGNATURE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: HISTORY CHANNEL HD">
+    <display-name lang="pt">BR: HISTORY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: INVESTIGAÇÃO DISCOVERY HD">
+    <display-name lang="pt">BR: INVESTIGAÇÃO DISCOVERY HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: LIFETIME HD">
+    <display-name lang="pt">BR: LIFETIME HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: MAX HD">
+    <display-name lang="pt">BR: MAX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: MAX PRIME HD">
+    <display-name lang="pt">BR: MAX PRIME HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: MAX PRIME*E HD">
+    <display-name lang="pt">BR: MAX PRIME*E HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: MAX UP HD">
+    <display-name lang="pt">BR:  MAX UP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: MEGAPIX HD">
+    <display-name lang="pt">BR: MEGAPIX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: MTV HD">
+    <display-name lang="pt">BR: MTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: MULTISHOW HD">
+    <display-name lang="pt">BR: MULTISHOW HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: NATGEO WILD HD">
+    <display-name lang="pt">BR: NATGEO WILD HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: NATIONAL GEOGRAPHIC HD">
+    <display-name lang="pt">BR: NATIONAL GEOGRAPHIC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: NICK JR. HD">
+    <display-name lang="pt">BR: NICK JR. HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: NICKELODEON HD">
+    <display-name lang="pt">BR: NICKELODEON HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: OFF HD">
+    <display-name lang="pt">BR: OFF HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: PARAMOUNT CHANNEL HD">
+    <display-name lang="pt">BR: PARAMOUNT CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: PREMIERE CLUBES HD">
+    <display-name lang="pt">BR: PREMIERE CLUBES HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: RECORDSP HD">
+    <display-name lang="pt">BR: RECORD SP HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: RECORD NEWS HD">
+    <display-name lang="pt">BR: RECORD NEWS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: REDE TV HD">
+    <display-name lang="pt">BR: REDE TV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: REDE VIDA HD">
+    <display-name lang="pt">BR: REDE VIDA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: SBT HD">
+    <display-name lang="pt">BR: SBT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: SONY HD">
+    <display-name lang="pt">BR: SONY HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: SPACE HD">
+    <display-name lang="pt">BR: SPACE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: SPORTV HD">
+    <display-name lang="pt">BR: SPORTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: SPORTV 2 HD">
+    <display-name lang="pt">BR: SPORTV 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: SPORTV 3 HD">
+    <display-name lang="pt">BR: SPORTV 3 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: STUDIO UNIVERSAL HD">
+    <display-name lang="pt">BR: STUDIO UNIVERSAL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: SYFY HD">
+    <display-name lang="pt">BR: SYFY HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TBS ">
+    <display-name lang="pt">BR: TBS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TCM">
+    <display-name lang="pt">BR: TCM</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TELECINE ACTION HD">
+    <display-name lang="pt">BR: TELECINE ACTION HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TELECINE CULT HD">
+    <display-name lang="pt">BR: TELECINE CULT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TELECINE FUN HD">
+    <display-name lang="pt">BR: TELECINE FUN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TELECINE PIPOCA HD">
+    <display-name lang="pt">BR: TELECINE PIPOCA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TELECINE PREMIUM HD">
+    <display-name lang="pt">TELECINE PREMIUM HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD">
+    <display-name lang="pt">BR: TELECINE TOUCH HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TNT HD">
+    <display-name lang="pt">BR: TNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TNT SERIES HD">
+    <display-name lang="pt">BR: TNT SERIES HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TOONCAST HD">
+    <display-name lang="pt">BR: TOONCAST HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: TV GAZETA">
+    <display-name lang="pt">BR: TV GAZETA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: UNIVERSAL CHANNEL HD">
+    <display-name lang="pt">BR: UNIVERSAL CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: VH1 HD">
+    <display-name lang="pt">BR: VH1 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: VIVA HD">
+    <display-name lang="pt">BR: VIVA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: WARNER CHANNEL HD">
+    <display-name lang="pt">BR: WARNER CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: WOOHOO HD">
+    <display-name lang="pt">BR: WOOHOO HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200516164000 -0300" stop="20200516183700 -0300" channel="BR: A;E HD">
+    <title lang="pt">22 Balas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516183700 -0300" stop="20200516205400 -0300" channel="BR: A;E HD">
+    <title lang="pt">Guerreiro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516205400 -0300" stop="20200516222500 -0300" channel="BR: A;E HD">
+    <title lang="pt">Assassino A Preço Fixo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516222500 -0300" stop="20200517002200 -0300" channel="BR: A;E HD">
+    <title lang="pt">22 Balas</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20200516174500 -0300" stop="20200516195000 -0300" channel="BR: AMC HD">
@@ -63,14 +435,6 @@
   <programme start="20200516223000 -0300" stop="20200517002000 -0300" channel="BR: AMC HD">
     <title lang="pt">Hancock</title>
     <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200516160800 -0300" stop="20200516170300 -0300" channel="BR: ANIMAL PLANET HD">
-    <title lang="pt">Dinastias</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200516170300 -0300" stop="20200516180000 -0300" channel="BR: ANIMAL PLANET HD">
-    <title lang="pt">Espiões da Natureza</title>
-    <category lang="pt">Séries/Investigação</category>
   </programme>
   <programme start="20200516180000 -0300" stop="20200516185200 -0300" channel="BR: ANIMAL PLANET HD">
     <title lang="pt">África Selvagem: Rios</title>
@@ -98,14 +462,6 @@
   </programme>
   <programme start="20200516231000 -0300" stop="20200517000100 -0300" channel="BR: ANIMAL PLANET HD">
     <title lang="pt">Planeta Azul</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200516163000 -0300" stop="20200516173000 -0300" channel="BR: ARTE 1 HD">
-    <title lang="pt">Arte 1 na Dança</title>
-    <category lang="pt">Espetáculo/Dança</category>
-  </programme>
-  <programme start="20200516173000 -0300" stop="20200516180000 -0300" channel="BR: ARTE 1 HD">
-    <title lang="pt">Arte 1 na Dança</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200516180000 -0300" stop="20200516194500 -0300" channel="BR: ARTE 1 HD">
@@ -152,14 +508,6 @@
     <title lang="pt">Arte 1 em Série</title>
     <category lang="pt">Séries/Biografia</category>
   </programme>
-  <programme start="20200516161500 -0300" stop="20200516171000 -0300" channel="BR: AXN">
-    <title lang="pt">The Blacklist</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20200516171000 -0300" stop="20200516180500 -0300" channel="BR: AXN">
-    <title lang="pt">The Blacklist</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
   <programme start="20200516180500 -0300" stop="20200516190000 -0300" channel="BR: AXN">
     <title lang="pt">NCIS</title>
     <category lang="pt">Séries/Ação</category>
@@ -184,14 +532,6 @@
     <title lang="pt">Sem Rastro</title>
     <category lang="pt">Séries/Investigação</category>
   </programme>
-  <programme start="20200516161500 -0300" stop="20200516171000 -0300" channel="BR: AXN HD">
-    <title lang="pt">The Blacklist</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20200516171000 -0300" stop="20200516180500 -0300" channel="BR: AXN HD">
-    <title lang="pt">The Blacklist</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
   <programme start="20200516180500 -0300" stop="20200516190000 -0300" channel="BR: AXN HD">
     <title lang="pt">NCIS</title>
     <category lang="pt">Séries/Ação</category>
@@ -215,22 +555,6 @@
   <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: AXN HD">
     <title lang="pt">Sem Rastro</title>
     <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200516163000 -0300" stop="20200516170000 -0300" channel="BR: BABY HD">
-    <title lang="pt">O Grupo dos Pequenos</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200516170000 -0300" stop="20200516173000 -0300" channel="BR: BABY HD">
-    <title lang="pt">Charlie e o Alfabeto</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200516173000 -0300" stop="20200516180000 -0300" channel="BR: BABY HD">
-    <title lang="pt">Pim e Pimba</title>
-    <category lang="pt">Séries/Infantil</category>
-  </programme>
-  <programme start="20200516180000 -0300" stop="20200516183000 -0300" channel="BR: BABY HD">
-    <title lang="pt">Parabéns à Você</title>
-    <category lang="pt">Variedades/Diversos</category>
   </programme>
   <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: BABY HD">
     <title lang="pt">Sala de aula de Teeny &amp; Tiny</title>
@@ -275,18 +599,6 @@
   <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: BABY HD">
     <title lang="pt">No Mundo dos Brinquedos</title>
     <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200516163000 -0300" stop="20200516170000 -0300" channel="BR: BAND NEWS HD">
-    <title lang="pt">Dinheiro Em Foco</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20200516170000 -0300" stop="20200516173000 -0300" channel="BR: BAND NEWS HD">
-    <title lang="pt">Tarde Bandnews</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20200516173000 -0300" stop="20200516180000 -0300" channel="BR: BAND NEWS HD">
-    <title lang="pt">Capital Natural</title>
-    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
   <programme start="20200516180000 -0300" stop="20200516190000 -0300" channel="BR: BAND NEWS HD">
     <title lang="pt">Fim de Semana Bandnews</title>
@@ -364,10 +676,6 @@
     <title lang="pt">SFT - MMA - Especial Melhores Lutas</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200516150000 -0300" stop="20200516183000 -0300" channel="BR: BAND SPORTS HD">
-    <title lang="pt">Especial Tênis - Roland Garros</title>
-    <category lang="pt">Esporte/Tênis</category>
-  </programme>
   <programme start="20200516183000 -0300" stop="20200516203000 -0300" channel="BR: BAND SPORTS HD">
     <title lang="pt">Especial Olímpiadas</title>
     <category lang="pt">Esporte/Diversos</category>
@@ -383,14 +691,6 @@
   <programme start="20200516230000 -0300" stop="20200517000000 -0300" channel="BR: BAND SPORTS HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200516163000 -0300" stop="20200516170000 -0300" channel="BR: BIS HD [Brazil]">
-    <title lang="pt">Video Killed The Radio Star - Frankie Goes To Hollywood</title>
-    <category lang="pt">Séries/Musical</category>
-  </programme>
-  <programme start="20200516170000 -0300" stop="20200516180000 -0300" channel="BR: BIS HD [Brazil]">
-    <title lang="pt">Como Nossos Ídolos</title>
-    <category lang="pt">Variedades/Musical</category>
   </programme>
   <programme start="20200516180000 -0300" stop="20200516190000 -0300" channel="BR: BIS HD [Brazil]">
     <title lang="pt">Rock in Rio 2019 - Jetlag</title>
@@ -411,22 +711,6 @@
   <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: BIS HD [Brazil]">
     <title lang="pt">Vamos Tocar</title>
     <category lang="pt">Séries/Musical</category>
-  </programme>
-  <programme start="20200516160000 -0300" stop="20200516170000 -0300" channel="BR: BLOOMBERG HD">
-    <title lang="pt">Best of Bloomberg Daybreak</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20200516170000 -0300" stop="20200516173000 -0300" channel="BR: BLOOMBERG HD">
-    <title lang="pt">Leaders With Lacqua</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20200516173000 -0300" stop="20200516180000 -0300" channel="BR: BLOOMBERG HD">
-    <title lang="pt">Coronavirus</title>
-    <category lang="pt">Variedades/Informativo</category>
-  </programme>
-  <programme start="20200516180000 -0300" stop="20200516183000 -0300" channel="BR: BLOOMBERG HD">
-    <title lang="pt">Leadership Live with David Rubenstein</title>
-    <category lang="pt">Variedades/Talk Show</category>
   </programme>
   <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: BLOOMBERG HD">
     <title lang="pt">The David Rubenstein Show, Peer to Peer Conversations</title>
@@ -464,52 +748,2436 @@
     <title lang="pt">The David Rubenstein Show, Peer to Peer Conversations</title>
     <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200516163500 -0300" stop="20200516170000 -0300" channel="BR:COMEDY CENTRAL HD">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516182200 -0300" stop="20200516183300 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200516170000 -0300" stop="20200516172500 -0300" channel="BR:COMEDY CENTRAL HD">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516183300 -0300" stop="20200516185600 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Scooby-Doo! E Convidados</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200516172500 -0300" stop="20200516175500 -0300" channel="BR:COMEDY CENTRAL HD">
-    <title lang="pt">Homens?</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516185600 -0300" stop="20200516190700 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">DC Super Hero Girls</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200516175500 -0300" stop="20200516180000 -0300" channel="BR:COMEDY CENTRAL HD">
-    <title lang="pt">Porta No Comedy</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516190700 -0300" stop="20200516192100 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">DC Super Hero Girls</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200516180000 -0300" stop="20200516183000 -0300" channel="BR:COMEDY CENTRAL HD">
-    <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516192100 -0300" stop="20200516193300 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">DC Super Hero Girls</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR:COMEDY CENTRAL HD">
+  <programme start="20200516193300 -0300" stop="20200516193500 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">The Happos Family</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516193500 -0300" stop="20200516193800 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">The Happos Family</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516193800 -0300" stop="20200516195100 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516195100 -0300" stop="20200516200200 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516200200 -0300" stop="20200516201000 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516201000 -0300" stop="20200516201900 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516201900 -0300" stop="20200516202700 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516202700 -0300" stop="20200516203800 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Mr. Bean</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516203800 -0300" stop="20200516205000 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Mr. Bean</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516205000 -0300" stop="20200516210000 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Mr. Bean</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516210800 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516210800 -0300" stop="20200516211600 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516211600 -0300" stop="20200516212400 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516212400 -0300" stop="20200516213100 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516213100 -0300" stop="20200516213700 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">New Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516213700 -0300" stop="20200516214200 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">New Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516214200 -0300" stop="20200516214900 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">New Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516214900 -0300" stop="20200516215500 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">New Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516215500 -0300" stop="20200516220100 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">New Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516220100 -0300" stop="20200516221200 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516221200 -0300" stop="20200516222500 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516222500 -0300" stop="20200516223600 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516223600 -0300" stop="20200516224800 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516224800 -0300" stop="20200516225900 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516225900 -0300" stop="20200516230800 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Oddbods</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516230800 -0300" stop="20200516231500 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516231500 -0300" stop="20200516232300 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516232300 -0300" stop="20200516233100 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516233100 -0300" stop="20200516234100 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516234100 -0300" stop="20200516235000 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516235000 -0300" stop="20200516235700 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516235700 -0300" stop="20200517001900 -0300" channel="BR: BOOMERANG HD ">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516181000 -0300" stop="20200516195500 -0300" channel="BR: CANAL BRASIL">
+    <title lang="pt">De Pernas Pro Ar 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516195500 -0300" stop="20200516214000 -0300" channel="BR: CANAL BRASIL">
+    <title lang="pt">Tô Ryca!</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516214000 -0300" stop="20200516231000 -0300" channel="BR: CANAL BRASIL">
+    <title lang="pt">Hoje</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516231000 -0300" stop="20200517005000 -0300" channel="BR: CANAL BRASIL">
+    <title lang="pt">Festival de Cannes: Diamantino</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516182500 -0300" stop="20200516183700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516183700 -0300" stop="20200516184900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516184900 -0300" stop="20200516191600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516191600 -0300" stop="20200516192800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516192800 -0300" stop="20200516193900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516193900 -0300" stop="20200516195100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516195100 -0300" stop="20200516200200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516200200 -0300" stop="20200516201300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516201300 -0300" stop="20200516202500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516202500 -0300" stop="20200516203500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516203500 -0300" stop="20200516204800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516204800 -0300" stop="20200516205900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516205900 -0300" stop="20200516211100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516211100 -0300" stop="20200516212400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516212400 -0300" stop="20200516213500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516213500 -0300" stop="20200516214900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516214900 -0300" stop="20200516220100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516220100 -0300" stop="20200516221200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516221200 -0300" stop="20200516222300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516222300 -0300" stop="20200516223400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516223400 -0300" stop="20200516224700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516224700 -0300" stop="20200516225800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516225800 -0300" stop="20200516231000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516231000 -0300" stop="20200516232300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516232300 -0300" stop="20200516233400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516233400 -0300" stop="20200516234600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516234600 -0300" stop="20200516235800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516235800 -0300" stop="20200517000900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516175200 -0300" stop="20200516195200 -0300" channel="BR: CINEMAX HD">
+    <title lang="pt">Ender's Game - O Jogo do Exterminador</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516195200 -0300" stop="20200516220000 -0300" channel="BR: CINEMAX HD">
+    <title lang="pt">Santos Justiceiros 2 - O Retorno</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517000600 -0300" channel="BR: CINEMAX HD">
+    <title lang="pt">O Livro de Eli</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">State of America With Kate Bolduan</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">World Sport Live</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">Living Golf</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516203000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">Erin Burnett OutFront</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516210000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">African Voices</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516213000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">CNN Newsroom</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516220000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">World Sport</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516221500 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">CNN Marketplace Africa</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516221500 -0300" stop="20200516223000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">World Sport</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516230000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">Weekly Special</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">Fared Zakaria</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517003000 -0300" channel="BR: CNN BRASIL">
+    <title lang="pt">State of America With Kate Bolduan</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516174000 -0300" stop="20200516184000 -0300" channel="BR: COMBATE HD">
+    <title lang="pt">Especial Combate: UFC Fight Night Combate - Overeem x Harris</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516184000 -0300" stop="20200516191000 -0300" channel="BR: COMBATE HD">
+    <title lang="pt">Giro Combate</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516191000 -0300" stop="20200516191500 -0300" channel="BR: COMBATE HD">
+    <title lang="pt">Aquecimento Combate: UFC Fight Night Combate - Overeem x Harris</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516191500 -0300" stop="20200517010000 -0300" channel="BR: COMBATE HD">
+    <title lang="pt">UFC Fight Night Combate - Overeem x Harris - Ao Vivo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: COMEDY CENTRAL HD">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR:COMEDY CENTRAL HD">
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: COMEDY CENTRAL HD">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR:COMEDY CENTRAL HD">
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: COMEDY CENTRAL HD">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR:COMEDY CENTRAL HD">
+  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: COMEDY CENTRAL HD">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200516210000 -0300" stop="20200516230000 -0300" channel="BR:COMEDY CENTRAL HD">
+  <programme start="20200516210000 -0300" stop="20200516230000 -0300" channel="BR: COMEDY CENTRAL HD">
     <title lang="pt">Esposa de Mentirinha</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR:COMEDY CENTRAL HD">
+  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR: COMEDY CENTRAL HD">
     <title lang="pt">Pipocando: O Dobro de Manteiga</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR:COMEDY CENTRAL HD">
+  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: COMEDY CENTRAL HD">
     <title lang="pt">Pipocando: O Dobro de Manteiga</title>
     <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516190000 -0300" channel="BR: CULTURA HD">
+    <title lang="pt">Cultura Livre</title>
+    <category lang="pt">Séries/Musical</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516191500 -0300" channel="BR: CULTURA HD">
+    <title lang="pt">Territórios Culturais</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20200516191500 -0300" stop="20200516201500 -0300" channel="BR: CULTURA HD">
+    <title lang="pt">Minidocs Shows</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516201500 -0300" stop="20200516204500 -0300" channel="BR: CULTURA HD">
+    <title lang="pt">Futurando</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20200516204500 -0300" stop="20200516211500 -0300" channel="BR: CULTURA HD">
+    <title lang="pt">Mundo Museu</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20200516211500 -0300" stop="20200516220000 -0300" channel="BR: CULTURA HD">
+    <title lang="pt">Jornal da Cultura</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516230000 -0300" channel="BR: CULTURA HD">
+    <title lang="pt">Cultura Mundo</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517003000 -0300" channel="BR: CULTURA HD">
+    <title lang="pt">Clássicos</title>
+    <category lang="pt">Séries/Musical</category>
+  </programme>
+  <programme start="20200516180400 -0300" stop="20200516185200 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Rumo ao Desconhecido</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516185200 -0300" stop="20200516194100 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Rumo ao Desconhecido</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516194100 -0300" stop="20200516203000 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">Nu e Abandonado</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516211400 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">Nu e Abandonado</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516211400 -0300" stop="20200516220200 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">Nu e Abandonado</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516220200 -0300" stop="20200516222600 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">Operação Fronteira - América do Sul</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516222600 -0300" stop="20200516225000 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">Operação Fronteira - América do Sul</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516225000 -0300" stop="20200516231800 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516231800 -0300" stop="20200516234500 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516234500 -0300" stop="20200517003300 -0300" channel="BR: DISCOVERY CHANNEL HD">
+    <title lang="pt">As Piores Prisões do Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516184800 -0300" channel="BR: DISCOVERY CIVILIZATION HD">
+    <title lang="pt">Desafio Alasca</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516184800 -0300" stop="20200516193600 -0300" channel="BR: DISCOVERY CIVILIZATION HD">
+    <title lang="pt">Desafio Alasca</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516193600 -0300" stop="20200516202400 -0300" channel="BR: DISCOVERY CIVILIZATION HD">
+    <title lang="pt">Tela Humana</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516202400 -0300" stop="20200516211200 -0300" channel="BR: DISCOVERY CIVILIZATION HD">
+    <title lang="pt">Crimes.Com</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516211200 -0300" stop="20200516220000 -0300" channel="BR: DISCOVERY CIVILIZATION HD">
+    <title lang="pt">Tudo Por Ouro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516224800 -0300" channel="BR: DISCOVERY CIVILIZATION HD">
+    <title lang="pt">Tela Humana</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516224800 -0300" stop="20200516233600 -0300" channel="BR: DISCOVERY CIVILIZATION HD">
+    <title lang="pt">O Mestre das Espadas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516233600 -0300" stop="20200517000000 -0300" channel="BR: DISCOVERY CIVILIZATION HD">
+    <title lang="pt">Jogo de Penhores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516184800 -0300" channel="BR: DISCOVERY THEATER HD">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516184800 -0300" stop="20200516193600 -0300" channel="BR: DISCOVERY THEATER HD">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516193600 -0300" stop="20200516200000 -0300" channel="BR: DISCOVERY THEATER HD">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516202400 -0300" channel="BR: DISCOVERY THEATER HD">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200516202400 -0300" stop="20200516211200 -0300" channel="BR: DISCOVERY THEATER HD">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516211200 -0300" stop="20200516220000 -0300" channel="BR: DISCOVERY THEATER HD">
+    <title lang="pt">Criadores de Sonhos</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516224800 -0300" channel="BR: DISCOVERY THEATER HD">
+    <title lang="pt">Selva de Feras</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516224800 -0300" stop="20200516233600 -0300" channel="BR: DISCOVERY THEATER HD">
+    <title lang="pt">Resgate no Everest</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516233600 -0300" stop="20200517000000 -0300" channel="BR: DISCOVERY THEATER HD">
+    <title lang="pt">Uma Estranha entre os Lobos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516180200 -0300" stop="20200516185200 -0300" channel="BR: DISCOVERY HOME ; HEALTH HD">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516185200 -0300" stop="20200516194200 -0300" channel="BR: DISCOVERY HOME ; HEALTH HD">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516194200 -0300" stop="20200516203200 -0300" channel="BR: DISCOVERY HOME ; HEALTH HD">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516203200 -0300" stop="20200516212200 -0300" channel="BR: DISCOVERY HOME ; HEALTH HD">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516212200 -0300" stop="20200516221000 -0300" channel="BR: DISCOVERY HOME ; HEALTH HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516221000 -0300" stop="20200516225800 -0300" channel="BR: DISCOVERY HOME ; HEALTH HD">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516225800 -0300" stop="20200516232500 -0300" channel="BR: DISCOVERY HOME ; HEALTH HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516232500 -0300" stop="20200516235200 -0300" channel="BR: DISCOVERY HOME ; HEALTH HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516235200 -0300" stop="20200517001700 -0300" channel="BR: DISCOVERY HOME ; HEALTH HD">
+    <title lang="pt">Casas Exuberantes</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516182700 -0300" stop="20200516183900 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Ricky Zoom</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516183900 -0300" stop="20200516185100 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Ricky Zoom</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516185100 -0300" stop="20200516190500 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Super Wings</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516190500 -0300" stop="20200516191700 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Super Wings</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516191700 -0300" stop="20200516194200 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516194200 -0300" stop="20200516200500 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516200500 -0300" stop="20200516202800 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516202800 -0300" stop="20200516205400 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516205400 -0300" stop="20200516221300 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Spark: Uma Aventura Espacial</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200516221300 -0300" stop="20200516234900 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200516234900 -0300" stop="20200516235600 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Mr. Magoo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516235600 -0300" stop="20200517000300 -0300" channel="BR: DISCOVERY KIDS HD">
+    <title lang="pt">Mr. Magoo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516184800 -0300" channel="BR: DISCOVERY SCIENCE HD">
+    <title lang="pt">Os Anti-heróis do Velho Oeste</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516184800 -0300" stop="20200516191200 -0300" channel="BR: DISCOVERY SCIENCE HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516191200 -0300" stop="20200516193600 -0300" channel="BR: DISCOVERY SCIENCE HD">
+    <title lang="pt">O Segredo das Coisas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516193600 -0300" stop="20200516202400 -0300" channel="BR: DISCOVERY SCIENCE HD">
+    <title lang="pt">Protótipos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516202400 -0300" stop="20200516211200 -0300" channel="BR: DISCOVERY SCIENCE HD">
+    <title lang="pt">Batalha Makers Brasil</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516211200 -0300" stop="20200516220000 -0300" channel="BR: DISCOVERY SCIENCE HD">
+    <title lang="pt">O Inexplorado, com Justin Fornal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516224800 -0300" channel="BR: DISCOVERY SCIENCE HD">
+    <title lang="pt">O Inexplorado, com Justin Fornal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516224800 -0300" stop="20200516233600 -0300" channel="BR: DISCOVERY SCIENCE HD">
+    <title lang="pt">O Inexplorado, com Justin Fornal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516233600 -0300" stop="20200517002400 -0300" channel="BR: DISCOVERY SCIENCE HD">
+    <title lang="pt">Universidade Forense</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516180500 -0300" stop="20200516185500 -0300" channel="BR: DISCOVERY TURBO HD">
+    <title lang="pt">Lendas JDM</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516185500 -0300" stop="20200516194600 -0300" channel="BR: DISCOVERY TURBO HD">
+    <title lang="pt">Lendas JDM</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516194600 -0300" stop="20200516203000 -0300" channel="BR: DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516212000 -0300" channel="BR: DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516212000 -0300" stop="20200516221100 -0300" channel="BR: DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516221100 -0300" stop="20200516230200 -0300" channel="BR: DISCOVERY TURBO HD">
+    <title lang="pt">Will e Gus: O Dobro ou Nada</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516230200 -0300" stop="20200516235600 -0300" channel="BR: DISCOVERY TURBO HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <category lang="pt">Séries/Competição</category>
+  </programme>
+  <programme start="20200516235600 -0300" stop="20200517004800 -0300" channel="BR: DISCOVERY TURBO HD">
+    <title lang="pt">Top Gear</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516194000 -0300" channel="BR: DISCOVERY TLC">
+    <title lang="pt">Quilos Mortais</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200516194000 -0300" stop="20200516203000 -0300" channel="BR: DISCOVERY TLC">
+    <title lang="pt">Emagreci, E Agora?</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516212000 -0300" channel="BR: DISCOVERY TLC">
+    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516212000 -0300" stop="20200516221000 -0300" channel="BR: DISCOVERY TLC">
+    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516221000 -0300" stop="20200516234900 -0300" channel="BR: DISCOVERY TLC">
+    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516234900 -0300" stop="20200517001400 -0300" channel="BR: DISCOVERY TLC">
+    <title lang="pt">A Médium</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: DISNEY CHANNEL HD">
+    <title lang="pt">Amphibia</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: DISNEY CHANNEL HD">
+    <title lang="pt">Coop e Cami</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: DISNEY CHANNEL HD">
+    <title lang="pt">Fast Layne</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516220000 -0300" channel="BR: DISNEY CHANNEL HD">
+    <title lang="pt">Zombies 2</title>
+    <category lang="pt">Filme/Musical</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517000000 -0300" channel="BR: DISNEY CHANNEL HD">
+    <title lang="pt">Ramona e Beezus</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516184500 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Puppy Dog Pals</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200516184500 -0300" stop="20200516190000 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">PJ Masks - Heróis de Pijama</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516190500 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Bluey</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516190500 -0300" stop="20200516191500 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Bluey</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516191500 -0300" stop="20200516193000 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Fancy Nancy Clancy</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516194500 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Mickey Mouse</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516194500 -0300" stop="20200516200000 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Vampirina</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516214500 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Carros 3</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200516214500 -0300" stop="20200516220000 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Nivis: Amigos de Outro Mundo</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516221500 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Rocketeer</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200516221500 -0300" stop="20200516223000 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Vampirina</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516230000 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Elena de Avalor</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Mickey - Aventuras Sobre Rodas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: DISNEY JUNIOR HD">
+    <title lang="pt">Junior Express</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516200000 -0300" channel="BR: DISNEY XD HD">
+    <title lang="pt">Operação Big Hero</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: DISNEY XD HD">
+    <title lang="pt">Operação Big Hero - A Série</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516213000 -0300" channel="BR: DISNEY XD HD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516220000 -0300" channel="BR: DISNEY XD HD">
+    <title lang="pt">Operação Big Hero - A Série</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517004500 -0300" channel="BR: DISNEY XD HD">
+    <title lang="pt">Pantera Negra</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516175000 -0300" stop="20200516184000 -0300" channel="BR: E! HD">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516184000 -0300" stop="20200516190500 -0300" channel="BR: E! HD">
+    <title lang="pt">Um Show de Noiva</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516190500 -0300" stop="20200516193000 -0300" channel="BR: E! HD">
+    <title lang="pt">Um Show de Noiva</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516202000 -0300" channel="BR: E! HD">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516202000 -0300" stop="20200516211000 -0300" channel="BR: E! HD">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516211000 -0300" stop="20200516231500 -0300" channel="BR: E! HD">
+    <title lang="pt">Os Desconectados</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516231500 -0300" stop="20200516233500 -0300" channel="BR: E! HD">
+    <title lang="pt">Um Show de Noiva</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516233500 -0300" stop="20200517000000 -0300" channel="BR: E! HD">
+    <title lang="pt">Um Show de Noiva</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516171500 -0300" stop="20200516184500 -0300" channel="BR: ESPN HD ">
+    <title lang="pt">ESPN Filmes: 30 For 30 - Winning Time: Reggie Miller vs The New York Knicks</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20200516184500 -0300" stop="20200516190000 -0300" channel="BR: ESPN HD ">
+    <title lang="pt">Cestou ESPN Bud</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516200000 -0300" channel="BR: ESPN HD ">
+    <title lang="pt">Nba: Shaq: The Big Conversation</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516220000 -0300" channel="BR: ESPN HD ">
+    <title lang="pt">Nba Clássicos: All Star Game 1998 - Michael Jordan Mvp</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517003000 -0300" channel="BR: ESPN HD ">
+    <title lang="pt">Roy Nelson vs. Matt Mitrione</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516200000 -0300" channel="BR: ESPN BRASIL HD">
+    <title lang="pt">Real Madrid x Barcelona</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516220000 -0300" channel="BR: ESPN BRASIL HD">
+    <title lang="pt">Premier League de Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516230000 -0300" channel="BR: ESPN BRASIL HD">
+    <title lang="pt">Bola da Vez: Lucas Leiva</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517000000 -0300" channel="BR: ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516180600 -0300" stop="20200516193400 -0300" channel="BR: Fox HD">
+    <title lang="pt">Hotel Transilvânia</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200516193400 -0300" stop="20200516210000 -0300" channel="BR: Fox HD">
+    <title lang="pt">Hotel Transilvânia 2</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516224200 -0300" channel="BR: Fox HD">
+    <title lang="pt">Gente Grande 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516224200 -0300" stop="20200517003600 -0300" channel="BR: Fox HD">
+    <title lang="pt">Três Anúncios Para um Crime</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516191500 -0300" channel="BR: FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516191500 -0300" stop="20200516200000 -0300" channel="BR: FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516204800 -0300" channel="BR: FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516204800 -0300" stop="20200516213300 -0300" channel="BR: FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516213300 -0300" stop="20200516221800 -0300" channel="BR: FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516221800 -0300" stop="20200516230200 -0300" channel="BR: FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516230200 -0300" stop="20200517000000 -0300" channel="BR: FOX LIFE HD">
+    <title lang="pt">Conselho Tutelar</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200516173000 -0300" stop="20200516200000 -0300" channel="BR: FOX SPORTS HD">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: FOX SPORTS HD">
+    <title lang="pt">Central Fox Noite - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516223000 -0300" channel="BR: FOX SPORTS HD">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516233000 -0300" channel="BR: FOX SPORTS HD">
+    <title lang="pt">Central Fox Noite</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517003000 -0300" channel="BR: FOX SPORTS HD">
+    <title lang="pt">Aqui Com Benja</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20200516174500 -0300" stop="20200516193000 -0300" channel="BR: FOX SPORTS 2 HD">
+    <title lang="pt">VT - Borussia Dortmund x Schalke 04</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: FOX SPORTS 2 HD">
+    <title lang="pt">Fórmula E</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516203000 -0300" channel="BR: FOX SPORTS 2 HD">
+    <title lang="pt">WRC</title>
+    <category lang="pt">Esporte/Radical</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516221500 -0300" channel="BR: FOX SPORTS 2 HD">
+    <title lang="pt">VT - Eintracht Frankfurt x Borussia Mönchengladbach</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516221500 -0300" stop="20200516224500 -0300" channel="BR: FOX SPORTS 2 HD">
+    <title lang="pt">Bundesliga Weekly</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516224500 -0300" stop="20200516231500 -0300" channel="BR: FOX SPORTS 2 HD">
+    <title lang="pt">La Liga World</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516231500 -0300" stop="20200517011500 -0300" channel="BR: FOX SPORTS 2 HD">
+    <title lang="pt">WWE Smackdown</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: FUTURA HD">
+    <title lang="pt">Destino: Educação - Escolas Inovadoras</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516191500 -0300" channel="BR: FUTURA HD">
+    <title lang="pt">Maratona Futura</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516191500 -0300" stop="20200516193000 -0300" channel="BR: FUTURA HD">
+    <title lang="pt">Maratona Futura</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516194500 -0300" channel="BR: FUTURA HD">
+    <title lang="pt">Maratona Futura</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516194500 -0300" stop="20200516200000 -0300" channel="BR: FUTURA HD">
+    <title lang="pt">Maratona Futura</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516203000 -0300" channel="BR: FUTURA HD">
+    <title lang="pt">Maratona Futura</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516210000 -0300" channel="BR: FUTURA HD">
+    <title lang="pt">Maratona Futura</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516220000 -0300" channel="BR: FUTURA HD">
+    <title lang="pt">Mundo.Doc: Borderland</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517000000 -0300" channel="BR: FUTURA HD">
+    <title lang="pt">Cineclube Futura</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20200516171000 -0300" stop="20200516184800 -0300" channel="BR: FX HD">
+    <title lang="pt">Sem Vestígios</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200516184800 -0300" stop="20200516201700 -0300" channel="BR: FX HD">
+    <title lang="pt">Quarteto Fantástico e o Surfista Prateado</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516201700 -0300" stop="20200516220000 -0300" channel="BR: FX HD">
+    <title lang="pt">Assassin's Creed</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516234300 -0300" channel="BR: FX HD">
+    <title lang="pt">Planeta dos Macacos: A Origem</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200516234300 -0300" stop="20200517011600 -0300" channel="BR: FX HD">
+    <title lang="pt">A Trilha</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516182500 -0300" stop="20200516190200 -0300" channel="BR: GLOBO BRASILIA">
+    <title lang="pt">Novo Mundo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516190200 -0300" stop="20200516193300 -0300" channel="BR: GLOBO BRASILIA">
+    <title lang="pt">DF TV - 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516193300 -0300" stop="20200516203000 -0300" channel="BR: GLOBO BRASILIA">
+    <title lang="pt">Totalmente Demais</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516213700 -0300" channel="BR: GLOBO BRASILIA">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516213700 -0300" stop="20200516223800 -0300" channel="BR: GLOBO BRASILIA">
+    <title lang="pt">Fina Estampa</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516223800 -0300" stop="20200516230600 -0300" channel="BR: GLOBO BRASILIA">
+    <title lang="pt">Zorra</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20200516230600 -0300" stop="20200517004600 -0300" channel="BR: GLOBO BRASILIA">
+    <title lang="pt">Altas Horas</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516182000 -0300" stop="20200516191000 -0300" channel="BR: GLOBO EPTV CAMPINAS HD">
+    <title lang="pt">Novo Mundo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516191000 -0300" stop="20200516193300 -0300" channel="BR: GLOBO EPTV CAMPINAS HD">
+    <title lang="pt">Jornal da EPTV - 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516193300 -0300" stop="20200516203000 -0300" channel="BR: GLOBO EPTV CAMPINAS HD">
+    <title lang="pt">Totalmente Demais</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516213700 -0300" channel="BR: GLOBO EPTV CAMPINAS HD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516213700 -0300" stop="20200516223800 -0300" channel="BR: GLOBO EPTV CAMPINAS HD">
+    <title lang="pt">Fina Estampa</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516223800 -0300" stop="20200516230600 -0300" channel="BR: GLOBO EPTV CAMPINAS HD">
+    <title lang="pt">Zorra</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20200516230600 -0300" stop="20200517003500 -0300" channel="BR: GLOBO EPTV CAMPINAS HD">
+    <title lang="pt">Altas Horas</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516182000 -0300" stop="20200516190200 -0300" channel="BR: GLOBO RJ HD">
+    <title lang="pt">Novo Mundo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516190200 -0300" stop="20200516193300 -0300" channel="BR: GLOBO RJ HD">
+    <title lang="pt">RJ2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516193300 -0300" stop="20200516203000 -0300" channel="BR: GLOBO RJ HD">
+    <title lang="pt">Totalmente Demais</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516213700 -0300" channel="BR: GLOBO RJ HD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516213700 -0300" stop="20200516223800 -0300" channel="BR: GLOBO RJ HD">
+    <title lang="pt">Fina Estampa</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516223800 -0300" stop="20200516230600 -0300" channel="BR: GLOBO RJ HD">
+    <title lang="pt">Zorra</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20200516230600 -0300" stop="20200517004600 -0300" channel="BR: GLOBO RJ HD">
+    <title lang="pt">Altas Horas</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516182000 -0300" stop="20200516190200 -0300" channel="BR: GLOBO SP HD">
+    <title lang="pt">Novo Mundo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516190200 -0300" stop="20200516193300 -0300" channel="BR: GLOBO SP HD">
+    <title lang="pt">SP2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516193300 -0300" stop="20200516203000 -0300" channel="BR: GLOBO SP HD">
+    <title lang="pt">Totalmente Demais</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516213700 -0300" channel="BR: GLOBO SP HD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516213700 -0300" stop="20200516223800 -0300" channel="BR: GLOBO SP HD">
+    <title lang="pt">Fina Estampa</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516223800 -0300" stop="20200516230600 -0300" channel="BR: GLOBO SP HD">
+    <title lang="pt">Zorra</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20200516230600 -0300" stop="20200517004600 -0300" channel="BR: GLOBO SP HD">
+    <title lang="pt">Altas Horas</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516200000 -0300" channel="BR: GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516220000 -0300" channel="BR: GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 20h - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517000000 -0300" channel="BR: GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">Bugados</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516203000 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516210000 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516223000 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">Escola de Bruxas</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516224500 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516224500 -0300" stop="20200516230000 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">D.P.A. - Detetives do Prédio Azul</title>
+    <category lang="pt">Séries/Juvenil</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: GLOOB HD">
+    <title lang="pt">D.P.A. - Detetives do Prédio Azul</title>
+    <category lang="pt">Séries/Juvenil</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: GNT HD">
+    <title lang="pt">Perto do Fogo</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516210000 -0300" channel="BR: GNT HD">
+    <title lang="pt">Você Não Está Só - Bela Gil e Família</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516213000 -0300" channel="BR: GNT HD">
+    <title lang="pt">Perto do Fogo</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516224500 -0300" channel="BR: GNT HD">
+    <title lang="pt">Mestre do Sabor</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516224500 -0300" stop="20200516234500 -0300" channel="BR: GNT HD">
+    <title lang="pt">Que Marravilha! Aula de Cozinha</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200516234500 -0300" stop="20200517000000 -0300" channel="BR: GNT HD">
+    <title lang="pt">Que Marravilha! Aula de Cozinha</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200516182000 -0300" stop="20200516191000 -0300" channel="BR: H2 HD">
+    <title lang="pt">Máfia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516191000 -0300" stop="20200516195500 -0300" channel="BR: H2 HD">
+    <title lang="pt">Invenções Lendárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516195500 -0300" stop="20200516204000 -0300" channel="BR: H2 HD">
+    <title lang="pt">Ideias Sinistras</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516204000 -0300" stop="20200516213500 -0300" channel="BR: H2 HD">
+    <title lang="pt">A Evolução da Maldade</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516213500 -0300" stop="20200516223000 -0300" channel="BR: H2 HD">
+    <title lang="pt">A Evolução da Maldade</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200517000000 -0300" channel="BR: H2 HD">
+    <title lang="pt">Holocausto: Execução do Mal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516194500 -0300" channel="BR: HBO HD">
+    <title lang="pt">Escape Room</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200516194500 -0300" stop="20200516201500 -0300" channel="BR: HBO HD">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516201500 -0300" stop="20200516220000 -0300" channel="BR: HBO HD">
+    <title lang="pt">A Freira</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516235500 -0300" channel="BR: HBO HD">
+    <title lang="pt">Annabelle 3: de Volta para Casa</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200516235500 -0300" stop="20200517014000 -0300" channel="BR: HBO HD">
+    <title lang="pt">A Maldição da Chorona</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200516164000 -0300" stop="20200516184000 -0300" channel="BR: HBO 2 HD ">
+    <title lang="pt">Sombras da Noite</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516184000 -0300" stop="20200516202500 -0300" channel="BR: HBO 2 HD ">
+    <title lang="pt">Uma Nova Chance</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200516202500 -0300" stop="20200516211500 -0300" channel="BR: HBO 2 HD ">
+    <title lang="pt">Katy Keene</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516211500 -0300" stop="20200516220000 -0300" channel="BR: HBO 2 HD ">
+    <title lang="pt">Batwoman</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516235500 -0300" channel="BR: HBO 2 HD ">
+    <title lang="pt">Oito Mulheres e Um Segredo</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516235500 -0300" stop="20200517021500 -0300" channel="BR: HBO 2 HD ">
+    <title lang="pt">Nasce Uma Estrela</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516182000 -0300" stop="20200516201000 -0300" channel="BR: HBO FAMILY HD">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516201000 -0300" stop="20200516214400 -0300" channel="BR: HBO FAMILY HD">
+    <title lang="pt">Nancy Drew e O Mistério da Escada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516214400 -0300" stop="20200516235700 -0300" channel="BR: HBO FAMILY HD">
+    <title lang="pt">Sherlock Holmes - O Jogo de Sombras</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516235700 -0300" stop="20200517013000 -0300" channel="BR: HBO FAMILY HD">
+    <title lang="pt">O Mistério de Hailey Dean: A Galeria Da Morte</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516182500 -0300" stop="20200516201000 -0300" channel="BR: HBO PLUS HD">
+    <title lang="pt">A Noite do Jogo</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516201000 -0300" stop="20200516220000 -0300" channel="BR: HBO PLUS HD">
+    <title lang="pt">Te Peguei!</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517001000 -0300" channel="BR: HBO PLUS HD">
+    <title lang="pt">Podres de Ricos</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516182000 -0300" stop="20200516192500 -0300" channel="BR: HBO SIGNATURE HD">
+    <title lang="pt">Família Soprano</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200516192500 -0300" stop="20200516202100 -0300" channel="BR: HBO SIGNATURE HD">
+    <title lang="pt">Família Soprano</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200516202100 -0300" stop="20200516213000 -0300" channel="BR: HBO SIGNATURE HD">
+    <title lang="pt">Ramy Youssef: Feelings</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516221000 -0300" channel="BR: HBO SIGNATURE HD">
+    <title lang="pt">Todxs Nós</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200516221000 -0300" stop="20200516231000 -0300" channel="BR: HBO SIGNATURE HD">
+    <title lang="pt">Atlanta's Missing and Murdered: The Lost Children</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516231000 -0300" stop="20200517001500 -0300" channel="BR: HBO SIGNATURE HD">
+    <title lang="pt">I Know This Much Is True</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200516181000 -0300" stop="20200516183500 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516183500 -0300" stop="20200516190000 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516192500 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516192500 -0300" stop="20200516195000 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516195000 -0300" stop="20200516201500 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516201500 -0300" stop="20200516204000 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516204000 -0300" stop="20200516213000 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Óvnis: Investigação Secreta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516222000 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Inexplicável: Com William Shatner</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516222000 -0300" stop="20200516231000 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Projeto Livro Azul</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200516231000 -0300" stop="20200517000000 -0300" channel="BR: HISTORY CHANNEL HD">
+    <title lang="pt">Alienígenas do Passado</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516181000 -0300" stop="20200516185400 -0300" channel="BR: INVESTIGAÇÃO DISCOVERY HD">
+    <title lang="pt">Perfeitos Desconhecidos</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200516185400 -0300" stop="20200516194200 -0300" channel="BR: INVESTIGAÇÃO DISCOVERY HD">
+    <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200516194200 -0300" stop="20200516203000 -0300" channel="BR: INVESTIGAÇÃO DISCOVERY HD">
+    <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516211800 -0300" channel="BR: INVESTIGAÇÃO DISCOVERY HD">
+    <title lang="pt">Frios e Calculistas</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200516211800 -0300" stop="20200516220500 -0300" channel="BR: INVESTIGAÇÃO DISCOVERY HD">
+    <title lang="pt">Frios e Calculistas</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200516220500 -0300" stop="20200516225200 -0300" channel="BR: INVESTIGAÇÃO DISCOVERY HD">
+    <title lang="pt">Um Monstro Como Nunca Se Viu</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200516225200 -0300" stop="20200516233900 -0300" channel="BR: INVESTIGAÇÃO DISCOVERY HD">
+    <title lang="pt">Um Monstro Como Nunca Se Viu</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200516233900 -0300" stop="20200517002800 -0300" channel="BR: INVESTIGAÇÃO DISCOVERY HD">
+    <title lang="pt">People Magazine: Por Dentro das Seitas</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200516172000 -0300" stop="20200516184900 -0300" channel="BR: LIFETIME HD">
+    <title lang="pt">A Mãe Errada</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20200516184900 -0300" stop="20200516201800 -0300" channel="BR: LIFETIME HD">
+    <title lang="pt">Mães em Guerra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200516201800 -0300" stop="20200516214400 -0300" channel="BR: LIFETIME HD">
+    <title lang="pt">Vingança De Um Romance</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200516214400 -0300" stop="20200516231300 -0300" channel="BR: LIFETIME HD">
+    <title lang="pt">Clube de Swing Fatal</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516231300 -0300" stop="20200517004400 -0300" channel="BR: LIFETIME HD">
+    <title lang="pt">O Vizinho Psicopata</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200516174000 -0300" stop="20200516195500 -0300" channel="BR: MAX HD">
+    <title lang="pt">O Corvo Branco</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200516195500 -0300" stop="20200516202500 -0300" channel="BR: MAX HD">
+    <title lang="pt">Arde Madrid</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200516202500 -0300" stop="20200516210000 -0300" channel="BR: MAX HD">
+    <title lang="pt">Arde Madrid</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516230500 -0300" channel="BR: MAX HD">
+    <title lang="pt">O Sacrifício Do Cervo Sagrado</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516230500 -0300" stop="20200517005000 -0300" channel="BR: MAX HD">
+    <title lang="pt">Adoração</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516171500 -0300" stop="20200516193700 -0300" channel="BR: MAX PRIME HD">
+    <title lang="pt">Valerian e a Cidade dos Mil Planetas</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516193700 -0300" stop="20200516220500 -0300" channel="BR: MAX PRIME HD">
+    <title lang="pt">Aquaman</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516220500 -0300" stop="20200516234700 -0300" channel="BR: MAX PRIME HD">
+    <title lang="pt">Hardcore - Missão Extrema</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516234700 -0300" stop="20200517012000 -0300" channel="BR: MAX PRIME HD">
+    <title lang="pt">Tubarão Tóxico</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516174200 -0300" stop="20200516192500 -0300" channel="BR: MAX UP HD">
+    <title lang="pt">Juliet, Nua e Crua</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516192500 -0300" stop="20200516210000 -0300" channel="BR: MAX UP HD">
+    <title lang="pt">Holmes &amp; Watson</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516223500 -0300" channel="BR: MAX UP HD">
+    <title lang="pt">Os Japão</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516223500 -0300" stop="20200517001800 -0300" channel="BR: MAX UP HD">
+    <title lang="pt">Stan e Ollie - O Gordo e O Magro</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200516173500 -0300" stop="20200516200500 -0300" channel="BR: MEGAPIX HD">
+    <title lang="pt">Waterworld - O Segredo das Águas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516200500 -0300" stop="20200516220000 -0300" channel="BR: MEGAPIX HD">
+    <title lang="pt">Os Mercenários</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517002000 -0300" channel="BR: MEGAPIX HD">
+    <title lang="pt">Velozes &amp; Furiosos 7</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516182000 -0300" stop="20200516191500 -0300" channel="BR: MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516191500 -0300" stop="20200516201000 -0300" channel="BR: MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516201000 -0300" stop="20200516211000 -0300" channel="BR: MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516211000 -0300" stop="20200516220500 -0300" channel="BR: MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516220500 -0300" stop="20200516230000 -0300" channel="BR: MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517000000 -0300" channel="BR: MTV HD">
+    <title lang="pt">De Férias Com o Ex Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516185100 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">Bastidores</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516185100 -0300" stop="20200516190000 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">Treme Treme</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516200000 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">Top TVZ</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516203000 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">A Vila</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516210000 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">A Vila</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516213200 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">A Vila</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516213200 -0300" stop="20200516220300 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">A Vila</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516220300 -0300" stop="20200516223300 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">O Dono Do Lar</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516223300 -0300" stop="20200516230400 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">O Dono Do Lar</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516230400 -0300" stop="20200516233400 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">O Dono Do Lar</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516233400 -0300" stop="20200517000400 -0300" channel="BR: MULTISHOW HD">
+    <title lang="pt">O Dono Do Lar</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516180100 -0300" stop="20200516184400 -0300" channel="BR: NATGEO WILD HD">
+    <title lang="pt">Clínica Animal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516184400 -0300" stop="20200516192900 -0300" channel="BR: NATGEO WILD HD">
+    <title lang="pt">O Melhor de Yukon: Plantão Veterinário</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200516192900 -0300" stop="20200516201400 -0300" channel="BR: NATGEO WILD HD">
+    <title lang="pt">Os Segredos do Zoológico</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516201400 -0300" stop="20200516203700 -0300" channel="BR: NATGEO WILD HD">
+    <title lang="pt">África Animal com Richard Rasmussen</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200516203700 -0300" stop="20200516210000 -0300" channel="BR: NATGEO WILD HD">
+    <title lang="pt">África Animal com Richard Rasmussen</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516214400 -0300" channel="BR: NATGEO WILD HD">
+    <title lang="pt">Andes: Batalhas de Sobrevivência</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516214400 -0300" stop="20200516223000 -0300" channel="BR: NATGEO WILD HD">
+    <title lang="pt">Andes: Batalhas de Sobrevivência</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516231500 -0300" channel="BR: NATGEO WILD HD">
+    <title lang="pt">Brasil Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516231500 -0300" stop="20200517000000 -0300" channel="BR: NATGEO WILD HD">
+    <title lang="pt">Rivais: Leoas x Girafas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516184400 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Brasil Selvagem: Biomas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516184400 -0300" stop="20200516192900 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Retidos na Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516192900 -0300" stop="20200516195300 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Fronteiras Perigosas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516195300 -0300" stop="20200516201600 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Fronteiras Perigosas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516201600 -0300" stop="20200516210000 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Aeroporto: São Paulo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516214600 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Brain Games Compilations</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516214600 -0300" stop="20200516223000 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Brain Games Compilations</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516231400 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Cosmos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516231400 -0300" stop="20200516235400 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Cosmos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516235400 -0300" stop="20200517003800 -0300" channel="BR: NATIONAL GEOGRAPHIC HD">
+    <title lang="pt">Cosmos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Butterbean's Cafe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Abby Hatcher</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516203000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516210000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516213000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Rainbow Rangers</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516220000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Blaze e Os Monster Machine</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516223000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516230000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: NICK JR. HD">
+    <title lang="pt">Patrulha Canina</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516203000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516210000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516213000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516220000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516223000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Game Shakers</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516230000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Game Shakers</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Maratona OFF</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: OFF HD">
+    <title lang="pt">As Fronteiras do Nilo</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Diário das Ilhas</title>
+    <category lang="pt">Séries/Radical</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516203000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Morando Na Estrada</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516210000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Jornada Dupla</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516213000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Burle, Me Treina!</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516220000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Apneia</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516223000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Muito Além Do Que Se Vê</title>
+    <category lang="pt">Esporte/Surfe</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516230000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Mundo Medina</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Guia de Manobras</title>
+    <category lang="pt">Esporte/Surfe</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: OFF HD">
+    <title lang="pt">Alma Viajante</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200516173000 -0300" stop="20200516192500 -0300" channel="BR: PARAMOUNT CHANNEL HD">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516192500 -0300" stop="20200516213000 -0300" channel="BR: PARAMOUNT CHANNEL HD">
+    <title lang="pt">A Perseguição</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516234000 -0300" channel="BR: PARAMOUNT CHANNEL HD">
+    <title lang="pt">Hotel Ruanda</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516234000 -0300" stop="20200517015000 -0300" channel="BR: PARAMOUNT CHANNEL HD">
+    <title lang="pt">Na Linha de Fogo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516190000 -0300" channel="BR: PREMIERE CLUBES HD">
+    <title lang="pt">VT - Vasco x ABC RN</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516191500 -0300" channel="BR: PREMIERE CLUBES HD">
+    <title lang="pt">Cinefoot: Tapete Verde</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200516191500 -0300" stop="20200516193000 -0300" channel="BR: PREMIERE CLUBES HD">
+    <title lang="pt">A Culpa é Do Neymar</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: PREMIERE CLUBES HD">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: PREMIERE CLUBES HD">
+    <title lang="pt">Boleiragem</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516224500 -0300" channel="BR: PREMIERE CLUBES HD">
+    <title lang="pt">VT - Bahia x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516224500 -0300" stop="20200516230000 -0300" channel="BR: PREMIERE CLUBES HD">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517004500 -0300" channel="BR: PREMIERE CLUBES HD">
+    <title lang="pt">VT - Bahia x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516170000 -0300" stop="20200516194500 -0300" channel="BR: RECORDSP HD">
+    <title lang="pt">Cidade Alerta Edição de Sábado</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516194500 -0300" stop="20200516210000 -0300" channel="BR: RECORDSP HD">
+    <title lang="pt">Jornal da Record Edição de Sábado</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516223000 -0300" channel="BR: RECORDSP HD">
+    <title lang="pt">Cidade Alerta Edição de Sábado</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200517000000 -0300" channel="BR: RECORDSP HD">
+    <title lang="pt">Live Legendários</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516180300 -0300" stop="20200516183300 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">RN Séries</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516183300 -0300" stop="20200516183600 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516183600 -0300" stop="20200516190700 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Repórter Record Investigação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516190700 -0300" stop="20200516191000 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516191000 -0300" stop="20200516200000 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Repórter Record Investigação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516211500 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516211500 -0300" stop="20200516221500 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Câmera Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516221500 -0300" stop="20200516221700 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516221700 -0300" stop="20200516224700 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Estúdio News</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200516224700 -0300" stop="20200516225000 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516225000 -0300" stop="20200516233500 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">RN Séries</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516233500 -0300" stop="20200516234000 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516234000 -0300" stop="20200517000000 -0300" channel="BR: RECORD NEWS HD">
+    <title lang="pt">Record News Rural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516181500 -0300" stop="20200516193000 -0300" channel="BR: REDE TV HD">
+    <title lang="pt">RedeTV! 20 Anos</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516203000 -0300" channel="BR: REDE TV HD">
+    <title lang="pt">Ritmo Brasil</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516213000 -0300" channel="BR: REDE TV HD">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516221000 -0300" channel="BR: REDE TV HD">
+    <title lang="pt">RedeTV! News</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516221000 -0300" stop="20200516230000 -0300" channel="BR: REDE TV HD">
+    <title lang="pt">Operação de Risco</title>
+    <category lang="pt">Variedades/Reality Show</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517003000 -0300" channel="BR: REDE TV HD">
+    <title lang="pt">Mega Senha</title>
+    <category lang="pt">Variedades/Game Show</category>
+  </programme>
+  <programme start="20200516173000 -0300" stop="20200516190000 -0300" channel="BR: REDE VIDA HD">
+    <title lang="pt">Missa no Santuário do Divino Pai Eterno - Vivo</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516200000 -0300" channel="BR: REDE VIDA HD">
+    <title lang="pt">A Bella Itália</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: REDE VIDA HD">
+    <title lang="pt">+Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516213000 -0300" channel="BR: REDE VIDA HD">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516230000 -0300" channel="BR: REDE VIDA HD">
+    <title lang="pt">Silvio Brito em Família</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517010000 -0300" channel="BR: REDE VIDA HD">
+    <title lang="pt">Fazendo Barulho</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20200516154500 -0300" stop="20200516190000 -0300" channel="BR: SBT HD">
+    <title lang="pt">Programa Raul Gil</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516194500 -0300" channel="BR: SBT HD">
+    <title lang="pt">RAW</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516194500 -0300" stop="20200516203000 -0300" channel="BR: SBT HD">
+    <title lang="pt">SBT Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516213000 -0300" channel="BR: SBT HD">
+    <title lang="pt">Topa ou não Topa</title>
+    <category lang="pt">Variedades/Game Show</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516223000 -0300" channel="BR: SBT HD">
+    <title lang="pt">Esquadrão da Moda</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200517000000 -0300" channel="BR: SBT HD">
+    <title lang="pt">Bake Off Brasil - A Cereja do Bolo</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200516172500 -0300" stop="20200516192000 -0300" channel="BR: SONY HD">
+    <title lang="pt">De Volta para o Futuro Parte II</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516192000 -0300" stop="20200516212500 -0300" channel="BR: SONY HD">
+    <title lang="pt">De Volta para o Futuro Parte III</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516212500 -0300" stop="20200516233000 -0300" channel="BR: SONY HD">
+    <title lang="pt">De Volta para o Futuro</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517012500 -0300" channel="BR: SONY HD">
+    <title lang="pt">The Last Dragonslayer</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516171900 -0300" stop="20200516190600 -0300" channel="BR: SPACE HD">
+    <title lang="pt">Rede de Corrupção</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200516190600 -0300" stop="20200516204900 -0300" channel="BR: SPACE HD">
+    <title lang="pt">O Implacável</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200516204900 -0300" stop="20200516223000 -0300" channel="BR: SPACE HD">
+    <title lang="pt">Jogos Letais</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200517000900 -0300" channel="BR: SPACE HD">
+    <title lang="pt">Rápida Vingança</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516203000 -0300" channel="BR: SPORTV HD">
+    <title lang="pt">Faixa Especial: Copa do Mundo 2002: Alemanha x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516220000 -0300" channel="BR: SPORTV HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516230000 -0300" channel="BR: SPORTV HD">
+    <title lang="pt">VT - Corinthians x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517000000 -0300" channel="BR: SPORTV HD">
+    <title lang="pt">VT - Palmeiras x River Plate</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516181000 -0300" stop="20200516191000 -0300" channel="BR: SPORTV 2 HD">
+    <title lang="pt">UFC Fight Night Combate - Overeem x Harris</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516191000 -0300" stop="20200516192000 -0300" channel="BR: SPORTV 2 HD">
+    <title lang="pt">Aquecimento Combate</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516192000 -0300" stop="20200516203000 -0300" channel="BR: SPORTV 2 HD">
+    <title lang="pt">UFC Fight Night Combate - Overeem x Harris</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516220000 -0300" channel="BR: SPORTV 2 HD">
+    <title lang="pt">Jogos Olímpicos Rio 2016: Vôlei Masculino</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517003000 -0300" channel="BR: SPORTV 2 HD">
+    <title lang="pt">Jogos Pan-Americanos Winnipeg 1999: Vôlei Feminino</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
+  </programme>
+  <programme start="20200516170000 -0300" stop="20200516210000 -0300" channel="BR: SPORTV 3 HD">
+    <title lang="pt">Jogos Paralímpicos Rio 2016</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516220000 -0300" channel="BR: SPORTV 3 HD">
+    <title lang="pt">VT - Flamengo x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516230000 -0300" channel="BR: SPORTV 3 HD">
+    <title lang="pt">VT - Flamengo x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517000000 -0300" channel="BR: SPORTV 3 HD">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516200000 -0300" channel="BR: STUDIO UNIVERSAL HD">
+    <title lang="pt">O Procurado</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516214000 -0300" channel="BR: STUDIO UNIVERSAL HD">
+    <title lang="pt">A Visita</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200516214000 -0300" stop="20200516234500 -0300" channel="BR: STUDIO UNIVERSAL HD">
+    <title lang="pt">Fragmentado</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200516234500 -0300" stop="20200517012000 -0300" channel="BR: STUDIO UNIVERSAL HD">
+    <title lang="pt">A Escuridão</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200516183000 -0300" stop="20200516190000 -0300" channel="BR: SYFY HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: SYFY HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: SYFY HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516203000 -0300" channel="BR: SYFY HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516211500 -0300" channel="BR: SYFY HD">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200516211500 -0300" stop="20200516220000 -0300" channel="BR: SYFY HD">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516224500 -0300" channel="BR: SYFY HD">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200516224500 -0300" stop="20200516233000 -0300" channel="BR: SYFY HD">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517001500 -0300" channel="BR: SYFY HD">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200516182300 -0300" stop="20200516200700 -0300" channel="BR: TBS ">
+    <title lang="pt">O Grinch</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516200700 -0300" stop="20200516220000 -0300" channel="BR: TBS ">
+    <title lang="pt">A Última Palavra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516233400 -0300" channel="BR: TBS ">
+    <title lang="pt">A Ressurreição de Gavin Stone</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200516233400 -0300" stop="20200517012300 -0300" channel="BR: TBS ">
+    <title lang="pt">A Exceção</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516173800 -0300" stop="20200516195500 -0300" channel="BR: TCM">
+    <title lang="pt">Lancelot - O Primeiro Cavaleiro</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516195500 -0300" stop="20200516220000 -0300" channel="BR: TCM">
+    <title lang="pt">O Sexto Dia</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516235600 -0300" channel="BR: TCM">
+    <title lang="pt">Despertar de um Pesadelo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516235600 -0300" stop="20200517020300 -0300" channel="BR: TCM">
+    <title lang="pt">Um Dia de Cão</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200516165500 -0300" stop="20200516191500 -0300" channel="BR: TELECINE ACTION HD">
+    <title lang="pt">O Plano Perfeito</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200516191500 -0300" stop="20200516220000 -0300" channel="BR: TELECINE ACTION HD">
+    <title lang="pt">Tróia</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517001000 -0300" channel="BR: TELECINE ACTION HD">
+    <title lang="pt">Os Mercenários 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516171500 -0300" stop="20200516201000 -0300" channel="BR: TELECINE CULT HD">
+    <title lang="pt">115 Anos de Henry Fonda: Era Uma Vez no Oeste</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200516201000 -0300" stop="20200516220000 -0300" channel="BR: TELECINE CULT HD">
+    <title lang="pt">115 Anos de Henry Fonda: A Caçada (1967)</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517014000 -0300" channel="BR: TELECINE CULT HD">
+    <title lang="pt">115 Anos de Henry Fonda: Guerra e Paz (1956)</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516174000 -0300" stop="20200516194000 -0300" channel="BR: TELECINE FUN HD">
+    <title lang="pt">Uma Dobra No Tempo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516194000 -0300" stop="20200516220000 -0300" channel="BR: TELECINE FUN HD">
+    <title lang="pt">A Bela e a Fera (2017)</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517004000 -0300" channel="BR: TELECINE FUN HD">
+    <title lang="pt">Harry Potter e o Cálice de Fogo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516175500 -0300" stop="20200516194000 -0300" channel="BR: TELECINE PIPOCA HD">
+    <title lang="pt">Rota de Fuga 3 - O Resgate</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516194000 -0300" stop="20200516220000 -0300" channel="BR: TELECINE PIPOCA HD">
+    <title lang="pt">O Dia do Atentado</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517003500 -0300" channel="BR: TELECINE PIPOCA HD">
+    <title lang="pt">Missão: Impossível - Efeito Fallout</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516180500 -0300" stop="20200516194500 -0300" channel="BR: TELECINE PREMIUM HD">
+    <title lang="pt">Pedro Coelho</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516194500 -0300" stop="20200516215000 -0300" channel="BR: TELECINE PREMIUM HD">
+    <title lang="pt">Homem-formiga e a Vespa</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516215000 -0300" stop="20200516220000 -0300" channel="BR: TELECINE PREMIUM HD">
+    <title lang="pt">Lou</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516235000 -0300" channel="BR: TELECINE PREMIUM HD">
+    <title lang="pt">Abominável</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200516235000 -0300" stop="20200517015000 -0300" channel="BR: TELECINE PREMIUM HD">
+    <title lang="pt">Tempestade: Planeta em Fúria</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516174500 -0300" stop="20200516194500 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">O Círculo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516194500 -0300" stop="20200516220000 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">A Teoria de Tudo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200517002500 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Infiltrado Na Klan</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516173400 -0300" stop="20200516195100 -0300" channel="BR: TNT HD">
+    <title lang="pt">Guardiões da Galáxia Vol. 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516195100 -0300" stop="20200516213500 -0300" channel="BR: TNT HD">
+    <title lang="pt">Procurando Dory</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200516213500 -0300" stop="20200516235800 -0300" channel="BR: TNT HD">
+    <title lang="pt">Robin Hood</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516235800 -0300" stop="20200517012800 -0300" channel="BR: TNT HD">
+    <title lang="pt">Plano de Fuga</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516175100 -0300" stop="20200516183500 -0300" channel="BR: TNT SERIES HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516183500 -0300" stop="20200516192000 -0300" channel="BR: TNT SERIES HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516192000 -0300" stop="20200516200500 -0300" channel="BR: TNT SERIES HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516200500 -0300" stop="20200516205200 -0300" channel="BR: TNT SERIES HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516205200 -0300" stop="20200516213600 -0300" channel="BR: TNT SERIES HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516213600 -0300" stop="20200516222300 -0300" channel="BR: TNT SERIES HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516222300 -0300" stop="20200516230800 -0300" channel="BR: TNT SERIES HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516230800 -0300" stop="20200516235200 -0300" channel="BR: TNT SERIES HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516235200 -0300" stop="20200517003500 -0300" channel="BR: TNT SERIES HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516190000 -0300" channel="BR: TOONCAST HD">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516200000 -0300" channel="BR: TOONCAST HD">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: TOONCAST HD">
+    <title lang="pt">Os Jetsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516213000 -0300" channel="BR: TOONCAST HD">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516220000 -0300" channel="BR: TOONCAST HD">
+    <title lang="pt">A Formiga Atômica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516223000 -0300" channel="BR: TOONCAST HD">
+    <title lang="pt">2 Cachorros Bobos</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200517000000 -0300" channel="BR: TOONCAST HD">
+    <title lang="pt">Superman: The Animated Series</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516193000 -0300" channel="BR: TV GAZETA">
+    <title lang="pt">Gazeta Shopping</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: TV GAZETA">
+    <title lang="pt">Gazeta Imóveis</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516220000 -0300" channel="BR: TV GAZETA">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516230000 -0300" channel="BR: TV GAZETA">
+    <title lang="pt">Ultrafarma</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517020000 -0300" channel="BR: TV GAZETA">
+    <title lang="pt">Paz e Vida</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516185000 -0300" channel="BR: UNIVERSAL CHANNEL HD">
+    <title lang="pt">Chicago Fire</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200516185000 -0300" stop="20200516194000 -0300" channel="BR: UNIVERSAL CHANNEL HD">
+    <title lang="pt">Chicago P.D.</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200516194000 -0300" stop="20200516203000 -0300" channel="BR: UNIVERSAL CHANNEL HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516212000 -0300" channel="BR: UNIVERSAL CHANNEL HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516212000 -0300" stop="20200516221000 -0300" channel="BR: UNIVERSAL CHANNEL HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516221000 -0300" stop="20200516230000 -0300" channel="BR: UNIVERSAL CHANNEL HD">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517010500 -0300" channel="BR: UNIVERSAL CHANNEL HD">
+    <title lang="pt">Animais Noturnos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516190000 -0300" channel="BR: VH1 HD">
+    <title lang="pt">Top Hits</title>
+    <category lang="pt">Séries/Musical</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516200000 -0300" channel="BR: VH1 HD">
+    <title lang="pt">Top Hits</title>
+    <category lang="pt">Séries/Musical</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: VH1 HD">
+    <title lang="pt">Music Box</title>
+    <category lang="pt">Séries/Musical</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516220000 -0300" channel="BR: VH1 HD">
+    <title lang="pt">Top Hits</title>
+    <category lang="pt">Séries/Musical</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516230000 -0300" channel="BR: VH1 HD">
+    <title lang="pt">Music Box</title>
+    <category lang="pt">Séries/Musical</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517000000 -0300" channel="BR: VH1 HD">
+    <title lang="pt">Music Box</title>
+    <category lang="pt">Séries/Musical</category>
+  </programme>
+  <programme start="20200516180000 -0300" stop="20200516190000 -0300" channel="BR: VIVA HD">
+    <title lang="pt">Viver do Riso</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: VIVA HD">
+    <title lang="pt">As Vilãs que Amamos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516193000 -0300" stop="20200516213000 -0300" channel="BR: VIVA HD">
+    <title lang="pt">Ó Pai, Ó</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516220000 -0300" channel="BR: VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516223000 -0300" channel="BR: VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516230000 -0300" channel="BR: VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200517000000 -0300" channel="BR: VIVA HD">
+    <title lang="pt">O Clone</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200516171200 -0300" stop="20200516195200 -0300" channel="BR: WARNER CHANNEL HD">
+    <title lang="pt">O Homem de Aço</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200516195200 -0300" stop="20200516223000 -0300" channel="BR: WARNER CHANNEL HD">
+    <title lang="pt">Homem-Aranha 3</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200517004700 -0300" channel="BR: WARNER CHANNEL HD">
+    <title lang="pt">Passageiros</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200516160000 -0300" stop="20200516200000 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Top Fight</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516200000 -0300" stop="20200516200500 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Pop Up</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516200500 -0300" stop="20200516203000 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Never Quit</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516203000 -0300" stop="20200516210000 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Challenge</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516210000 -0300" stop="20200516210500 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Pop Up</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516210500 -0300" stop="20200516213000 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Oss</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200516213000 -0300" stop="20200516220000 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Vida De Guerreiro</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200516220000 -0300" stop="20200516220500 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Pop Up</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516220500 -0300" stop="20200516223000 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Quarentena - Sábado</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200516223000 -0300" stop="20200516230000 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Resistência</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516230000 -0300" stop="20200516230500 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Pop Up</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200516230500 -0300" stop="20200516233000 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Juju Na Trip</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: WOOHOO HD">
+    <title lang="pt">Freedas</title>
+    <category lang="pt">Esporte/Diversos</category>
   </programme>
 </tv>
