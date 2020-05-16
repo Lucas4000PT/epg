@@ -1,199 +1,543 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="BR: COMEDY CENTRAL HD">
-    <display-name lang="pt">BR: COMEDY CENTRAL HD</display-name>
+  <channel id="BR: CARTOON NETWORK HD">
+    <display-name lang="pt">BR: CARTOON NETWORK HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Trampo Zika</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">A Culpa é do Cabral</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200516210000 -0300" stop="20200516230000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Esposa de Mentirinha</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Pipocando: O Dobro de Manteiga</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Pipocando: O Dobro de Manteiga</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200517000000 -0300" stop="20200517003000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Batalha de Lip Sync</title>
-    <category lang="pt">Séries/Game Show</category>
-  </programme>
-  <programme start="20200517003000 -0300" stop="20200517005500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Schitt's Creek</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200517005500 -0300" stop="20200517012000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Schitt's Creek</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200517012000 -0300" stop="20200517022000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">A Culpa é do Cabral na Estrada</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200517022000 -0300" stop="20200517024500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516195100 -0300" stop="20200516200200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517024500 -0300" stop="20200517031000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516200200 -0300" stop="20200516201300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517031000 -0300" stop="20200517033500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516201300 -0300" stop="20200516202500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517033500 -0300" stop="20200517035500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516202500 -0300" stop="20200516203500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517035500 -0300" stop="20200517041500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516203500 -0300" stop="20200516204800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517041500 -0300" stop="20200517043500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516204800 -0300" stop="20200516205900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517043500 -0300" stop="20200517045500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516205900 -0300" stop="20200516211100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517045500 -0300" stop="20200517051500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516211100 -0300" stop="20200516212400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517051500 -0300" stop="20200517053500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516212400 -0300" stop="20200516213500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517053500 -0300" stop="20200517060000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Key and Peele</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200517060000 -0300" stop="20200517063000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Key and Peele</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200517063000 -0300" stop="20200517070000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Broad City - A Cidade Das Minas</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200517070000 -0300" stop="20200517072500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516213500 -0300" stop="20200516214900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517072500 -0300" stop="20200517075000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516214900 -0300" stop="20200516220100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517075000 -0300" stop="20200517081500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516220100 -0300" stop="20200516221200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517081500 -0300" stop="20200517084000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516221200 -0300" stop="20200516222300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517084000 -0300" stop="20200517090500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516222300 -0300" stop="20200516223400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517090500 -0300" stop="20200517093000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">South Park</title>
+  <programme start="20200516223400 -0300" stop="20200516224700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517093000 -0300" stop="20200517111000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Esposa de Mentirinha</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200516224700 -0300" stop="20200516225800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517111000 -0300" stop="20200517113500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516225800 -0300" stop="20200516231000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517113500 -0300" stop="20200517120000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516231000 -0300" stop="20200516232300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517120000 -0300" stop="20200517122500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516232300 -0300" stop="20200516233400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517122500 -0300" stop="20200517125000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516233400 -0300" stop="20200516234600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517125000 -0300" stop="20200517131500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Os Goldbergs</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516234600 -0300" stop="20200516235800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517131500 -0300" stop="20200517134000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Os Goldbergs</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200516235800 -0300" stop="20200517000900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517134000 -0300" stop="20200517140500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517000900 -0300" stop="20200517002000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517140500 -0300" stop="20200517143000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517002000 -0300" stop="20200517003100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517143000 -0300" stop="20200517161000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">A Família Addams 2</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200517003100 -0300" stop="20200517004200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517161000 -0300" stop="20200517163500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">The Office</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517004200 -0300" stop="20200517005300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517163500 -0300" stop="20200517173500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Comedy Central Stand Up: Especial MMA</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517005300 -0300" stop="20200517010500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517173500 -0300" stop="20200517183500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">A Culpa é do Cabral</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517010500 -0300" stop="20200517011600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517183500 -0300" stop="20200517190500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Homens?</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517011600 -0300" stop="20200517012800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517190500 -0300" stop="20200517193500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Homens?</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517012800 -0300" stop="20200517013900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517193500 -0300" stop="20200517200500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Trampo Zika</title>
-    <category lang="pt">Séries/Reality Show</category>
+  <programme start="20200517013900 -0300" stop="20200517015100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517200500 -0300" stop="20200517203500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">Trampo Zika</title>
-    <category lang="pt">Séries/Reality Show</category>
+  <programme start="20200517015100 -0300" stop="20200517020200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517203500 -0300" stop="20200517213500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">A Culpa é da Carlota</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517020200 -0300" stop="20200517021400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517213500 -0300" stop="20200517220500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517021400 -0300" stop="20200517022600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517220500 -0300" stop="20200517223500 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200517022600 -0300" stop="20200517023700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517223500 -0300" stop="20200518002000 -0300" channel="BR: COMEDY CENTRAL HD">
-    <title lang="pt">A Família Addams 2</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200517023700 -0300" stop="20200517025000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517025000 -0300" stop="20200517030100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517030100 -0300" stop="20200517031200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517031200 -0300" stop="20200517032400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517032400 -0300" stop="20200517033500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517033500 -0300" stop="20200517034700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517034700 -0300" stop="20200517035800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517035800 -0300" stop="20200517041300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517041300 -0300" stop="20200517042500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517042500 -0300" stop="20200517043700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517043700 -0300" stop="20200517044800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517044800 -0300" stop="20200517045900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517045900 -0300" stop="20200517051200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517051200 -0300" stop="20200517053700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Samurai Jack</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517053700 -0300" stop="20200517054800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">KND</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517054800 -0300" stop="20200517060000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">KND</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517060000 -0300" stop="20200517072000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Scooby-Doo! e os Invasores Alienígenas</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200517072000 -0300" stop="20200517072800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517072800 -0300" stop="20200517073000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517073000 -0300" stop="20200517074100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517074100 -0300" stop="20200517075800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517075800 -0300" stop="20200517080000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517080000 -0300" stop="20200517081200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517081200 -0300" stop="20200517082800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517082800 -0300" stop="20200517083000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517083000 -0300" stop="20200517092000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Team Hot Wheels: Build The Epic Race</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200517092000 -0300" stop="20200517093000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517093000 -0300" stop="20200517094100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Maçã e Cebola</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517094100 -0300" stop="20200517095800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Maçã e Cebola</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517095800 -0300" stop="20200517100000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Maçã e Cebola</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517100000 -0300" stop="20200517101200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517101200 -0300" stop="20200517102800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517102800 -0300" stop="20200517104000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517104000 -0300" stop="20200517105600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517105600 -0300" stop="20200517110000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517110000 -0300" stop="20200517110700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517110700 -0300" stop="20200517111100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517111100 -0300" stop="20200517112300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517112300 -0300" stop="20200517113200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517113200 -0300" stop="20200517114300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517114300 -0300" stop="20200517114500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517114500 -0300" stop="20200517115600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Turma da Mônica Jovem</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517115600 -0300" stop="20200517120000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Turma da Mônica Jovem</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517120000 -0300" stop="20200517121100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517121100 -0300" stop="20200517122400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517122400 -0300" stop="20200517123600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517123600 -0300" stop="20200517124900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517124900 -0300" stop="20200517130000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517130000 -0300" stop="20200517131300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517131300 -0300" stop="20200517132400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517132400 -0300" stop="20200517133700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517133700 -0300" stop="20200517135500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517135500 -0300" stop="20200517140000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Sur Real Mundo de Any Malu</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517140000 -0300" stop="20200517141100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517141100 -0300" stop="20200517142300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517142300 -0300" stop="20200517143900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517143900 -0300" stop="20200517145000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517145000 -0300" stop="20200517150200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517150200 -0300" stop="20200517151800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517151800 -0300" stop="20200517152900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517152900 -0300" stop="20200517153000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517153000 -0300" stop="20200517154100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517154100 -0300" stop="20200517155200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517155200 -0300" stop="20200517160900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517160900 -0300" stop="20200517162000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517162000 -0300" stop="20200517163200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517163200 -0300" stop="20200517164800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517164800 -0300" stop="20200517170000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517170000 -0300" stop="20200517171200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517171200 -0300" stop="20200517172800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517172800 -0300" stop="20200517173900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517173900 -0300" stop="20200517175600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517175600 -0300" stop="20200517180000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517180000 -0300" stop="20200517181100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517181100 -0300" stop="20200517182200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517182200 -0300" stop="20200517183800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517183800 -0300" stop="20200517184900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517184900 -0300" stop="20200517190000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517190000 -0300" stop="20200517190400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517190400 -0300" stop="20200517191100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517191100 -0300" stop="20200517191500 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517191500 -0300" stop="20200517192700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517192700 -0300" stop="20200517193800 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517193800 -0300" stop="20200517195300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517195300 -0300" stop="20200517200200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517200200 -0300" stop="20200517200400 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Bicho Vai Pegar 4</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200517200400 -0300" stop="20200517214000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517214000 -0300" stop="20200517220000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517220000 -0300" stop="20200517221100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517221100 -0300" stop="20200517222600 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517222600 -0300" stop="20200517223700 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517223700 -0300" stop="20200517225200 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517225200 -0300" stop="20200517230000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517230000 -0300" stop="20200517230300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517230300 -0300" stop="20200517231100 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Drama Total Kids</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517231100 -0300" stop="20200517232300 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517232300 -0300" stop="20200517233900 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517233900 -0300" stop="20200517235000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200517235000 -0300" stop="20200518000000 -0300" channel="BR: CARTOON NETWORK HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
 </tv>
