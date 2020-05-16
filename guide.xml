@@ -1,1426 +1,1426 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="BR: COMEDY CENTRAL">
-    <display-name lang="pt">BR: COMEDY CENTRAL</display-name>
+  <channel id="COMEDY CENTRAL[BR]">
+    <display-name lang="pt">COMEDY CENTRAL[BR]</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200516190000 -0300" stop="20200516193000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200516193000 -0300" stop="20200516200000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200516200000 -0300" stop="20200516210000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200516210000 -0300" stop="20200516230000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200516210000 -0300" stop="20200516230000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Esposa de Mentirinha</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200516230000 -0300" stop="20200516233000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Pipocando: O Dobro de Manteiga</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200516233000 -0300" stop="20200517000000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Pipocando: O Dobro de Manteiga</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517000000 -0300" stop="20200517003000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517000000 -0300" stop="20200517003000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Batalha de Lip Sync</title>
     <category lang="pt">Séries/Game Show</category>
   </programme>
-  <programme start="20200517003000 -0300" stop="20200517005500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517003000 -0300" stop="20200517005500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Schitt's Creek</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517005500 -0300" stop="20200517012000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517005500 -0300" stop="20200517012000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Schitt's Creek</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517012000 -0300" stop="20200517022000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517012000 -0300" stop="20200517022000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral na Estrada</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517022000 -0300" stop="20200517024500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517022000 -0300" stop="20200517024500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517024500 -0300" stop="20200517031000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517024500 -0300" stop="20200517031000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517031000 -0300" stop="20200517033500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517031000 -0300" stop="20200517033500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517033500 -0300" stop="20200517035500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517033500 -0300" stop="20200517035500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517035500 -0300" stop="20200517041500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517035500 -0300" stop="20200517041500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517041500 -0300" stop="20200517043500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517041500 -0300" stop="20200517043500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517043500 -0300" stop="20200517045500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517043500 -0300" stop="20200517045500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517045500 -0300" stop="20200517051500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517045500 -0300" stop="20200517051500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517051500 -0300" stop="20200517053500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517051500 -0300" stop="20200517053500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517053500 -0300" stop="20200517060000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517053500 -0300" stop="20200517060000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Key and Peele</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517060000 -0300" stop="20200517063000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517060000 -0300" stop="20200517063000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Key and Peele</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517063000 -0300" stop="20200517070000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517063000 -0300" stop="20200517070000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Broad City - A Cidade Das Minas</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517070000 -0300" stop="20200517072500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517070000 -0300" stop="20200517072500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517072500 -0300" stop="20200517075000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517072500 -0300" stop="20200517075000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517075000 -0300" stop="20200517081500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517075000 -0300" stop="20200517081500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517081500 -0300" stop="20200517084000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517081500 -0300" stop="20200517084000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517084000 -0300" stop="20200517090500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517084000 -0300" stop="20200517090500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517090500 -0300" stop="20200517093000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517090500 -0300" stop="20200517093000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200517093000 -0300" stop="20200517111000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517093000 -0300" stop="20200517111000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Esposa de Mentirinha</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200517111000 -0300" stop="20200517113500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517111000 -0300" stop="20200517113500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517113500 -0300" stop="20200517120000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517113500 -0300" stop="20200517120000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517120000 -0300" stop="20200517122500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517120000 -0300" stop="20200517122500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517122500 -0300" stop="20200517125000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517122500 -0300" stop="20200517125000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517125000 -0300" stop="20200517131500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517125000 -0300" stop="20200517131500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Os Goldbergs</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517131500 -0300" stop="20200517134000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517131500 -0300" stop="20200517134000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Os Goldbergs</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517134000 -0300" stop="20200517140500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517134000 -0300" stop="20200517140500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517140500 -0300" stop="20200517143000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517140500 -0300" stop="20200517143000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517143000 -0300" stop="20200517161000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517143000 -0300" stop="20200517161000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Família Addams 2</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200517161000 -0300" stop="20200517163500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517161000 -0300" stop="20200517163500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517163500 -0300" stop="20200517173500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517163500 -0300" stop="20200517173500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Comedy Central Stand Up: Especial MMA</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517173500 -0300" stop="20200517183500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517173500 -0300" stop="20200517183500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517183500 -0300" stop="20200517190500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517183500 -0300" stop="20200517190500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Homens?</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517190500 -0300" stop="20200517193500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517190500 -0300" stop="20200517193500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Homens?</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517193500 -0300" stop="20200517200500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517193500 -0300" stop="20200517200500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200517200500 -0300" stop="20200517203500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517200500 -0300" stop="20200517203500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200517203500 -0300" stop="20200517213500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517203500 -0300" stop="20200517213500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é da Carlota</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517213500 -0300" stop="20200517220500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517213500 -0300" stop="20200517220500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517220500 -0300" stop="20200517223500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517220500 -0300" stop="20200517223500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200517223500 -0300" stop="20200518002000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200517223500 -0300" stop="20200518002000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Família Addams 2</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200518002000 -0300" stop="20200518004500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518002000 -0300" stop="20200518004500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518004500 -0300" stop="20200518011000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518004500 -0300" stop="20200518011000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518011000 -0300" stop="20200518013500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518011000 -0300" stop="20200518013500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518013500 -0300" stop="20200518020000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518013500 -0300" stop="20200518020000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518020000 -0300" stop="20200518022000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518020000 -0300" stop="20200518022000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518022000 -0300" stop="20200518024000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518022000 -0300" stop="20200518024000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518024000 -0300" stop="20200518030000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518024000 -0300" stop="20200518030000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518030000 -0300" stop="20200518032000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518030000 -0300" stop="20200518032000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518032000 -0300" stop="20200518034000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518032000 -0300" stop="20200518034000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518034000 -0300" stop="20200518040500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518034000 -0300" stop="20200518040500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518040500 -0300" stop="20200518042500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518040500 -0300" stop="20200518042500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518042500 -0300" stop="20200518044500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518042500 -0300" stop="20200518044500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518044500 -0300" stop="20200518051000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518044500 -0300" stop="20200518051000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Broad City - A Cidade Das Minas</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518051000 -0300" stop="20200518053500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518051000 -0300" stop="20200518053500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Broad City - A Cidade Das Minas</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518053500 -0300" stop="20200518060000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518053500 -0300" stop="20200518060000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Key and Peele</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518060000 -0300" stop="20200518063000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518060000 -0300" stop="20200518063000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Teachers</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518063000 -0300" stop="20200518070000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518063000 -0300" stop="20200518070000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Teachers</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518070000 -0300" stop="20200518072500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518070000 -0300" stop="20200518072500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518072500 -0300" stop="20200518075000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518072500 -0300" stop="20200518075000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518075000 -0300" stop="20200518081500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518075000 -0300" stop="20200518081500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200518081500 -0300" stop="20200518084000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518081500 -0300" stop="20200518084000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518084000 -0300" stop="20200518091000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518084000 -0300" stop="20200518091000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518091000 -0300" stop="20200518101000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518091000 -0300" stop="20200518101000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral na Estrada</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518101000 -0300" stop="20200518103500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518101000 -0300" stop="20200518103500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518103500 -0300" stop="20200518110000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518103500 -0300" stop="20200518110000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518110000 -0300" stop="20200518113000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518110000 -0300" stop="20200518113000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518113000 -0300" stop="20200518115500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518113000 -0300" stop="20200518115500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518115500 -0300" stop="20200518122500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518115500 -0300" stop="20200518122500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518122500 -0300" stop="20200518125000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518122500 -0300" stop="20200518125000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518125000 -0300" stop="20200518131500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518125000 -0300" stop="20200518131500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518131500 -0300" stop="20200518134000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518131500 -0300" stop="20200518134000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518134000 -0300" stop="20200518143500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518134000 -0300" stop="20200518143500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518143500 -0300" stop="20200518150000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518143500 -0300" stop="20200518150000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518150000 -0300" stop="20200518152500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518150000 -0300" stop="20200518152500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518152500 -0300" stop="20200518155000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518152500 -0300" stop="20200518155000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518155000 -0300" stop="20200518161500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518155000 -0300" stop="20200518161500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518161500 -0300" stop="20200518164000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518161500 -0300" stop="20200518164000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518164000 -0300" stop="20200518171000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518164000 -0300" stop="20200518171000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518171000 -0300" stop="20200518181000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518171000 -0300" stop="20200518181000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518181000 -0300" stop="20200518184000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518181000 -0300" stop="20200518184000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518184000 -0300" stop="20200518190500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518184000 -0300" stop="20200518190500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518190500 -0300" stop="20200518193000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518190500 -0300" stop="20200518193000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518193000 -0300" stop="20200518195500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518193000 -0300" stop="20200518195500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518195500 -0300" stop="20200518202000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518195500 -0300" stop="20200518202000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518202000 -0300" stop="20200518204500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518202000 -0300" stop="20200518204500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518204500 -0300" stop="20200518211000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518204500 -0300" stop="20200518211000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518211000 -0300" stop="20200518213500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518211000 -0300" stop="20200518213500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518213500 -0300" stop="20200518220000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518213500 -0300" stop="20200518220000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518220000 -0300" stop="20200518230000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518220000 -0300" stop="20200518230000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é da Carlota</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518230000 -0300" stop="20200518233000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518230000 -0300" stop="20200518233000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Homens?</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200518233000 -0300" stop="20200519000000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200518233000 -0300" stop="20200519000000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519000000 -0300" stop="20200519002000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519000000 -0300" stop="20200519002000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519002000 -0300" stop="20200519004000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519002000 -0300" stop="20200519004000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519004000 -0300" stop="20200519010000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519004000 -0300" stop="20200519010000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519010000 -0300" stop="20200519012500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519010000 -0300" stop="20200519012500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519012500 -0300" stop="20200519015000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519012500 -0300" stop="20200519015000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519015000 -0300" stop="20200519021500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519015000 -0300" stop="20200519021500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519021500 -0300" stop="20200519024000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519021500 -0300" stop="20200519024000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Porta no Comedy XXL</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519024000 -0300" stop="20200519030000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519024000 -0300" stop="20200519030000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Idiotando</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519030000 -0300" stop="20200519032000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519030000 -0300" stop="20200519032000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200519032000 -0300" stop="20200519034000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519032000 -0300" stop="20200519034000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Batalha de Lip Sync</title>
     <category lang="pt">Séries/Game Show</category>
   </programme>
-  <programme start="20200519034000 -0300" stop="20200519040000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519034000 -0300" stop="20200519040000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519040000 -0300" stop="20200519042000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519040000 -0300" stop="20200519042000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519042000 -0300" stop="20200519044500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519042000 -0300" stop="20200519044500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519044500 -0300" stop="20200519051000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519044500 -0300" stop="20200519051000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519051000 -0300" stop="20200519053500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519051000 -0300" stop="20200519053500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519053500 -0300" stop="20200519060000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519053500 -0300" stop="20200519060000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519060000 -0300" stop="20200519063000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519060000 -0300" stop="20200519063000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519063000 -0300" stop="20200519070000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519063000 -0300" stop="20200519070000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519070000 -0300" stop="20200519072500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519070000 -0300" stop="20200519072500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519072500 -0300" stop="20200519075000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519072500 -0300" stop="20200519075000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519075000 -0300" stop="20200519081500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519075000 -0300" stop="20200519081500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200519081500 -0300" stop="20200519084000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519081500 -0300" stop="20200519084000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519084000 -0300" stop="20200519091000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519084000 -0300" stop="20200519091000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519091000 -0300" stop="20200519094000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519091000 -0300" stop="20200519094000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Comedy Central Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519094000 -0300" stop="20200519101000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519094000 -0300" stop="20200519101000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Comedy Central Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519101000 -0300" stop="20200519103500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519101000 -0300" stop="20200519103500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519103500 -0300" stop="20200519110000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519103500 -0300" stop="20200519110000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519110000 -0300" stop="20200519113000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519110000 -0300" stop="20200519113000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519113000 -0300" stop="20200519115500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519113000 -0300" stop="20200519115500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519115500 -0300" stop="20200519122500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519115500 -0300" stop="20200519122500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519122500 -0300" stop="20200519125000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519122500 -0300" stop="20200519125000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519125000 -0300" stop="20200519131500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519125000 -0300" stop="20200519131500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519131500 -0300" stop="20200519134000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519131500 -0300" stop="20200519134000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519134000 -0300" stop="20200519143500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519134000 -0300" stop="20200519143500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519143500 -0300" stop="20200519150000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519143500 -0300" stop="20200519150000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519150000 -0300" stop="20200519152500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519150000 -0300" stop="20200519152500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519152500 -0300" stop="20200519155000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519152500 -0300" stop="20200519155000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519155000 -0300" stop="20200519161500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519155000 -0300" stop="20200519161500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519161500 -0300" stop="20200519164000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519161500 -0300" stop="20200519164000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519164000 -0300" stop="20200519171000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519164000 -0300" stop="20200519171000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519171000 -0300" stop="20200519181000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519171000 -0300" stop="20200519181000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Comedy Central Stand Up: Especial Regiões</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519181000 -0300" stop="20200519183500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519181000 -0300" stop="20200519183500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519183500 -0300" stop="20200519190000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519183500 -0300" stop="20200519190000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519190000 -0300" stop="20200519192500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519190000 -0300" stop="20200519192500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519192500 -0300" stop="20200519195000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519192500 -0300" stop="20200519195000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519195000 -0300" stop="20200519201500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519195000 -0300" stop="20200519201500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519201500 -0300" stop="20200519204000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519201500 -0300" stop="20200519204000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519204000 -0300" stop="20200519210500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519204000 -0300" stop="20200519210500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519210500 -0300" stop="20200519213000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519210500 -0300" stop="20200519213000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519213000 -0300" stop="20200519220000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519213000 -0300" stop="20200519220000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519220000 -0300" stop="20200519223000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519220000 -0300" stop="20200519223000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Homens?</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519223000 -0300" stop="20200519230000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519223000 -0300" stop="20200519230000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200519230000 -0300" stop="20200520000000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200519230000 -0300" stop="20200520000000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520000000 -0300" stop="20200520010000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520000000 -0300" stop="20200520010000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é da Carlota</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520010000 -0300" stop="20200520012500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520010000 -0300" stop="20200520012500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520012500 -0300" stop="20200520015000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520012500 -0300" stop="20200520015000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520015000 -0300" stop="20200520021500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520015000 -0300" stop="20200520021500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520021500 -0300" stop="20200520024000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520021500 -0300" stop="20200520024000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Porta no Comedy XXL</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520024000 -0300" stop="20200520030000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520024000 -0300" stop="20200520030000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Idiotando</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520030000 -0300" stop="20200520032000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520030000 -0300" stop="20200520032000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200520032000 -0300" stop="20200520034000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520032000 -0300" stop="20200520034000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Batalha de Lip Sync</title>
     <category lang="pt">Séries/Game Show</category>
   </programme>
-  <programme start="20200520034000 -0300" stop="20200520040000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520034000 -0300" stop="20200520040000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520040000 -0300" stop="20200520042000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520040000 -0300" stop="20200520042000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520042000 -0300" stop="20200520044500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520042000 -0300" stop="20200520044500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520044500 -0300" stop="20200520051000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520044500 -0300" stop="20200520051000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520051000 -0300" stop="20200520053500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520051000 -0300" stop="20200520053500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520053500 -0300" stop="20200520060000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520053500 -0300" stop="20200520060000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520060000 -0300" stop="20200520063000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520060000 -0300" stop="20200520063000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520063000 -0300" stop="20200520070000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520063000 -0300" stop="20200520070000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520070000 -0300" stop="20200520072500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520070000 -0300" stop="20200520072500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520072500 -0300" stop="20200520075000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520072500 -0300" stop="20200520075000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520075000 -0300" stop="20200520081500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520075000 -0300" stop="20200520081500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520081500 -0300" stop="20200520084000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520081500 -0300" stop="20200520084000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520084000 -0300" stop="20200520091000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520084000 -0300" stop="20200520091000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520091000 -0300" stop="20200520101000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520091000 -0300" stop="20200520101000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é da Carlota</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520101000 -0300" stop="20200520103500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520101000 -0300" stop="20200520103500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520103500 -0300" stop="20200520110000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520103500 -0300" stop="20200520110000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520110000 -0300" stop="20200520113000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520110000 -0300" stop="20200520113000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520113000 -0300" stop="20200520115500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520113000 -0300" stop="20200520115500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520115500 -0300" stop="20200520122500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520115500 -0300" stop="20200520122500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520122500 -0300" stop="20200520125000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520122500 -0300" stop="20200520125000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520125000 -0300" stop="20200520131500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520125000 -0300" stop="20200520131500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520131500 -0300" stop="20200520134000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520131500 -0300" stop="20200520134000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520134000 -0300" stop="20200520143500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520134000 -0300" stop="20200520143500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520143500 -0300" stop="20200520150000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520143500 -0300" stop="20200520150000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520150000 -0300" stop="20200520152500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520150000 -0300" stop="20200520152500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520152500 -0300" stop="20200520155000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520152500 -0300" stop="20200520155000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520155000 -0300" stop="20200520161500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520155000 -0300" stop="20200520161500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520161500 -0300" stop="20200520164000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520161500 -0300" stop="20200520164000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520164000 -0300" stop="20200520171000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520164000 -0300" stop="20200520171000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520171000 -0300" stop="20200520181000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520171000 -0300" stop="20200520181000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520181000 -0300" stop="20200520184000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520181000 -0300" stop="20200520184000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520184000 -0300" stop="20200520190500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520184000 -0300" stop="20200520190500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520190500 -0300" stop="20200520193000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520190500 -0300" stop="20200520193000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520193000 -0300" stop="20200520195500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520193000 -0300" stop="20200520195500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520195500 -0300" stop="20200520202000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520195500 -0300" stop="20200520202000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520202000 -0300" stop="20200520204500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520202000 -0300" stop="20200520204500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520204500 -0300" stop="20200520211000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520204500 -0300" stop="20200520211000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520211000 -0300" stop="20200520213500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520211000 -0300" stop="20200520213500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520213500 -0300" stop="20200520220000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520213500 -0300" stop="20200520220000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520220000 -0300" stop="20200520223000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520220000 -0300" stop="20200520223000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520223000 -0300" stop="20200520230000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520223000 -0300" stop="20200520230000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520230000 -0300" stop="20200520233000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520230000 -0300" stop="20200520233000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520233000 -0300" stop="20200521000000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200520233000 -0300" stop="20200521000000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521000000 -0300" stop="20200521003000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521000000 -0300" stop="20200521003000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521003000 -0300" stop="20200521010000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521003000 -0300" stop="20200521010000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521010000 -0300" stop="20200521012500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521010000 -0300" stop="20200521012500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521012500 -0300" stop="20200521015000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521012500 -0300" stop="20200521015000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200521015000 -0300" stop="20200521021500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521015000 -0300" stop="20200521021500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200521021500 -0300" stop="20200521024000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521021500 -0300" stop="20200521024000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Porta no Comedy XXL</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521024000 -0300" stop="20200521030000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521024000 -0300" stop="20200521030000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Idiotando</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521030000 -0300" stop="20200521032000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521030000 -0300" stop="20200521032000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200521032000 -0300" stop="20200521034000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521032000 -0300" stop="20200521034000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Batalha de Lip Sync</title>
     <category lang="pt">Séries/Game Show</category>
   </programme>
-  <programme start="20200521034000 -0300" stop="20200521040000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521034000 -0300" stop="20200521040000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521040000 -0300" stop="20200521042000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521040000 -0300" stop="20200521042000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521042000 -0300" stop="20200521044500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521042000 -0300" stop="20200521044500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200521044500 -0300" stop="20200521051000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521044500 -0300" stop="20200521051000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200521051000 -0300" stop="20200521053500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521051000 -0300" stop="20200521053500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200521053500 -0300" stop="20200521060000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521053500 -0300" stop="20200521060000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200521060000 -0300" stop="20200521063000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521060000 -0300" stop="20200521063000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200521063000 -0300" stop="20200521070000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521063000 -0300" stop="20200521070000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200521070000 -0300" stop="20200521072500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521070000 -0300" stop="20200521072500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521072500 -0300" stop="20200521075000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521072500 -0300" stop="20200521075000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521075000 -0300" stop="20200521081500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521075000 -0300" stop="20200521081500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521081500 -0300" stop="20200521084000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521081500 -0300" stop="20200521084000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521084000 -0300" stop="20200521090500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521084000 -0300" stop="20200521090500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521090500 -0300" stop="20200521093000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521090500 -0300" stop="20200521093000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521093000 -0300" stop="20200521095500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521093000 -0300" stop="20200521095500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521095500 -0300" stop="20200521102000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521095500 -0300" stop="20200521102000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521102000 -0300" stop="20200521104500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521102000 -0300" stop="20200521104500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521104500 -0300" stop="20200521111000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521104500 -0300" stop="20200521111000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521111000 -0300" stop="20200521113500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521111000 -0300" stop="20200521113500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521113500 -0300" stop="20200521120000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521113500 -0300" stop="20200521120000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521120000 -0300" stop="20200521122500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521120000 -0300" stop="20200521122500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521122500 -0300" stop="20200521125000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521122500 -0300" stop="20200521125000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521125000 -0300" stop="20200521131500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521125000 -0300" stop="20200521131500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521131500 -0300" stop="20200521134000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521131500 -0300" stop="20200521134000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521134000 -0300" stop="20200521143500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521134000 -0300" stop="20200521143500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521143500 -0300" stop="20200521150000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521143500 -0300" stop="20200521150000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521150000 -0300" stop="20200521152500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521150000 -0300" stop="20200521152500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521152500 -0300" stop="20200521155000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521152500 -0300" stop="20200521155000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521155000 -0300" stop="20200521161500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521155000 -0300" stop="20200521161500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521161500 -0300" stop="20200521164000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521161500 -0300" stop="20200521164000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521164000 -0300" stop="20200521171000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521164000 -0300" stop="20200521171000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521171000 -0300" stop="20200521181000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521171000 -0300" stop="20200521181000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Comedy Central Stand Up: Especial Medo</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521181000 -0300" stop="20200521184000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521181000 -0300" stop="20200521184000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521184000 -0300" stop="20200521190500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521184000 -0300" stop="20200521190500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521190500 -0300" stop="20200521193000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521190500 -0300" stop="20200521193000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521193000 -0300" stop="20200521195500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521193000 -0300" stop="20200521195500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521195500 -0300" stop="20200521202000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521195500 -0300" stop="20200521202000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521202000 -0300" stop="20200521204500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521202000 -0300" stop="20200521204500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521204500 -0300" stop="20200521211000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521204500 -0300" stop="20200521211000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521211000 -0300" stop="20200521213500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521211000 -0300" stop="20200521213500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521213500 -0300" stop="20200521220000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521213500 -0300" stop="20200521220000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521220000 -0300" stop="20200521225500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521220000 -0300" stop="20200521225500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521225500 -0300" stop="20200521230000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521225500 -0300" stop="20200521230000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Porta No Comedy</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200521230000 -0300" stop="20200521233000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521230000 -0300" stop="20200521233000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200521233000 -0300" stop="20200522000000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200521233000 -0300" stop="20200522000000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200522000000 -0300" stop="20200522002500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522000000 -0300" stop="20200522002500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522002500 -0300" stop="20200522005500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522002500 -0300" stop="20200522005500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522005500 -0300" stop="20200522010000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522005500 -0300" stop="20200522010000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Porta No Comedy</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522010000 -0300" stop="20200522012500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522010000 -0300" stop="20200522012500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522012500 -0300" stop="20200522015000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522012500 -0300" stop="20200522015000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522015000 -0300" stop="20200522021500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522015000 -0300" stop="20200522021500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522021500 -0300" stop="20200522024000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522021500 -0300" stop="20200522024000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Porta no Comedy XXL</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522024000 -0300" stop="20200522030000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522024000 -0300" stop="20200522030000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Idiotando</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522030000 -0300" stop="20200522032000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522030000 -0300" stop="20200522032000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200522032000 -0300" stop="20200522034000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522032000 -0300" stop="20200522034000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Batalha de Lip Sync</title>
     <category lang="pt">Séries/Game Show</category>
   </programme>
-  <programme start="20200522034000 -0300" stop="20200522040000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522034000 -0300" stop="20200522040000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522040000 -0300" stop="20200522042000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522040000 -0300" stop="20200522042000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522042000 -0300" stop="20200522044500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522042000 -0300" stop="20200522044500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522044500 -0300" stop="20200522051000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522044500 -0300" stop="20200522051000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522051000 -0300" stop="20200522053500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522051000 -0300" stop="20200522053500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522053500 -0300" stop="20200522060000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522053500 -0300" stop="20200522060000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522060000 -0300" stop="20200522063000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522060000 -0300" stop="20200522063000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522063000 -0300" stop="20200522070000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522063000 -0300" stop="20200522070000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522070000 -0300" stop="20200522072500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522070000 -0300" stop="20200522072500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522072500 -0300" stop="20200522075000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522072500 -0300" stop="20200522075000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522075000 -0300" stop="20200522081500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522075000 -0300" stop="20200522081500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200522081500 -0300" stop="20200522084000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522081500 -0300" stop="20200522084000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522084000 -0300" stop="20200522091000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522084000 -0300" stop="20200522091000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522091000 -0300" stop="20200522094000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522091000 -0300" stop="20200522094000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Homens?</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522094000 -0300" stop="20200522101000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522094000 -0300" stop="20200522101000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Homens?</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522101000 -0300" stop="20200522103500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522101000 -0300" stop="20200522103500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522103500 -0300" stop="20200522110000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522103500 -0300" stop="20200522110000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522110000 -0300" stop="20200522113000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522110000 -0300" stop="20200522113000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522113000 -0300" stop="20200522115500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522113000 -0300" stop="20200522115500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522115500 -0300" stop="20200522122500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522115500 -0300" stop="20200522122500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522122500 -0300" stop="20200522125000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522122500 -0300" stop="20200522125000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522125000 -0300" stop="20200522131500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522125000 -0300" stop="20200522131500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522131500 -0300" stop="20200522134000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522131500 -0300" stop="20200522134000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522134000 -0300" stop="20200522143500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522134000 -0300" stop="20200522143500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522143500 -0300" stop="20200522150000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522143500 -0300" stop="20200522150000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522150000 -0300" stop="20200522152500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522150000 -0300" stop="20200522152500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522152500 -0300" stop="20200522155000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522152500 -0300" stop="20200522155000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522155000 -0300" stop="20200522161500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522155000 -0300" stop="20200522161500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522161500 -0300" stop="20200522164000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522161500 -0300" stop="20200522164000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522164000 -0300" stop="20200522171000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522164000 -0300" stop="20200522171000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522171000 -0300" stop="20200522181000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522171000 -0300" stop="20200522181000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é da Carlota</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522181000 -0300" stop="20200522184000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522181000 -0300" stop="20200522184000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522184000 -0300" stop="20200522190500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522184000 -0300" stop="20200522190500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522190500 -0300" stop="20200522193000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522190500 -0300" stop="20200522193000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522193000 -0300" stop="20200522195500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522193000 -0300" stop="20200522195500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522195500 -0300" stop="20200522202000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522195500 -0300" stop="20200522202000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522202000 -0300" stop="20200522204500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522202000 -0300" stop="20200522204500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522204500 -0300" stop="20200522211000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522204500 -0300" stop="20200522211000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522211000 -0300" stop="20200522213500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522211000 -0300" stop="20200522213500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522213500 -0300" stop="20200522220000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522213500 -0300" stop="20200522220000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522220000 -0300" stop="20200522223000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522220000 -0300" stop="20200522223000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522223000 -0300" stop="20200522230000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522223000 -0300" stop="20200522230000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200522230000 -0300" stop="20200522233000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522230000 -0300" stop="20200522233000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200522233000 -0300" stop="20200523000000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200522233000 -0300" stop="20200523000000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Pipocando: O Dobro de Manteiga</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523000000 -0300" stop="20200523003000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523000000 -0300" stop="20200523003000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Homens?</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523003000 -0300" stop="20200523010000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523003000 -0300" stop="20200523010000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Homens?</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523010000 -0300" stop="20200523012500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523010000 -0300" stop="20200523012500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523012500 -0300" stop="20200523015000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523012500 -0300" stop="20200523015000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523015000 -0300" stop="20200523021500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523015000 -0300" stop="20200523021500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523021500 -0300" stop="20200523024000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523021500 -0300" stop="20200523024000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Porta no Comedy XXL</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523024000 -0300" stop="20200523030000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523024000 -0300" stop="20200523030000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Idiotando</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523030000 -0300" stop="20200523032000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523030000 -0300" stop="20200523032000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200523032000 -0300" stop="20200523034000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523032000 -0300" stop="20200523034000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Batalha de Lip Sync</title>
     <category lang="pt">Séries/Game Show</category>
   </programme>
-  <programme start="20200523034000 -0300" stop="20200523040000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523034000 -0300" stop="20200523040000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523040000 -0300" stop="20200523042000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523040000 -0300" stop="20200523042000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">República do Stand Up</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523042000 -0300" stop="20200523044500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523042000 -0300" stop="20200523044500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523044500 -0300" stop="20200523051000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523044500 -0300" stop="20200523051000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Ugly Americans</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523051000 -0300" stop="20200523053500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523051000 -0300" stop="20200523053500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523053500 -0300" stop="20200523060000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523053500 -0300" stop="20200523060000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523060000 -0300" stop="20200523063000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523060000 -0300" stop="20200523063000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523063000 -0300" stop="20200523070000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523063000 -0300" stop="20200523070000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523070000 -0300" stop="20200523072000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523070000 -0300" stop="20200523072000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523072000 -0300" stop="20200523074500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523072000 -0300" stop="20200523074500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523074500 -0300" stop="20200523081000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523074500 -0300" stop="20200523081000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523081000 -0300" stop="20200523083500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523081000 -0300" stop="20200523083500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523083500 -0300" stop="20200523090000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523083500 -0300" stop="20200523090000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523090000 -0300" stop="20200523092500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523090000 -0300" stop="20200523092500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200523092500 -0300" stop="20200523095000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523092500 -0300" stop="20200523095000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523095000 -0300" stop="20200523101500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523095000 -0300" stop="20200523101500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">The Office</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523101500 -0300" stop="20200523104500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523101500 -0300" stop="20200523104500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523104500 -0300" stop="20200523111500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523104500 -0300" stop="20200523111500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523111500 -0300" stop="20200523121500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523111500 -0300" stop="20200523121500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é da Carlota</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523121500 -0300" stop="20200523131500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523121500 -0300" stop="20200523131500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523131500 -0300" stop="20200523140000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523131500 -0300" stop="20200523140000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Comedy Central Stand Up: Especial Firma</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523140000 -0300" stop="20200523142500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523140000 -0300" stop="20200523142500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Os Goldbergs</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523142500 -0300" stop="20200523145000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523142500 -0300" stop="20200523145000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Os Goldbergs</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523145000 -0300" stop="20200523145500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523145000 -0300" stop="20200523145500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Porta No Comedy</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523145500 -0300" stop="20200523152000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523145500 -0300" stop="20200523152000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523152000 -0300" stop="20200523154500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523152000 -0300" stop="20200523154500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523154500 -0300" stop="20200523161000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523154500 -0300" stop="20200523161000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523161000 -0300" stop="20200523163500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523161000 -0300" stop="20200523163500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523163500 -0300" stop="20200523170000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523163500 -0300" stop="20200523170000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523170000 -0300" stop="20200523172500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523170000 -0300" stop="20200523172500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523172500 -0300" stop="20200523175500 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523172500 -0300" stop="20200523175500 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Homens?</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523175500 -0300" stop="20200523180000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523175500 -0300" stop="20200523180000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Porta No Comedy</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523180000 -0300" stop="20200523183000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523180000 -0300" stop="20200523183000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200523183000 -0300" stop="20200523190000 -0300" channel="BR: COMEDY CENTRAL">
+  <programme start="20200523183000 -0300" stop="20200523190000 -0300" channel="COMEDY CENTRAL[BR]">
     <title lang="pt">Trampo Zika</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
